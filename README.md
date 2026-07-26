@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, ich bin Anton 👋
 
-<!--
-**Planton361/Planton361** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich studiere Wirtschaftsinformatik im Master und arbeite als Werkstudent im Finanz-IT-Umfeld.
 
-Here are some ideas to get you started:
+## Über mich
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Masterstudent der Wirtschaftsinformatik
+- 💼 Werkstudent im Finanz-IT-Umfeld
+- 🔐 Interesse an Cybersecurity und Identity & Access Management
+- 🤖 Fokus auf Machine Learning, Fraud Detection und Anomaly Detection
+- 🔄 Erfahrung mit Geschäftsprozessmanagement und Camunda
+
+## Aktuelle Themen
+
+- Fraud Detection mit Machine Learning
+- Anomalieerkennung in IAM-Daten
+- Feature Engineering für Insider-Threat-Datensätze
+- Prozessautomatisierung mit BPMN und Camunda
+
+## Technologien
+
+- Python
+- pandas
+- scikit-learn
+- SQL
+- Java
+- Git und GitHub
+- Camunda
+- BPMN
+
+## Ausgewählte Projekte
+
+### IAM Anomaly Detection
+
+Analyse und Erkennung auffälliger Aktivitäten in IAM- und Insider-Threat-Daten.
+
+[Repository ansehen](https://github.com/Planton361/IAM_AnomalyDetection)
+
+### CERT Insider Threat Feature Extraction
+
+Aufbereitung und Feature Engineering für den CERT Insider Threat Datensatz.
+
+[Repository ansehen](https://github.com/Planton361/feature-extraction-for-CERT-insider-threat-test-datasets)
+
+### Camunda Budgetfreigabe
+
+Modellierung eines automatisierten Budgetfreigabeprozesses mit BPMN und Camunda.
+
+[Repository ansehen](https://github.com/Planton361/Geschaeftsprozessmanagment_Camunda_Budgetfreigabe)
+
+## Kontakt
+
+- GitHub: [@Planton361](https://github.com/Planton361)
+- LinkedIn: LinkedIn-Link ergänzen
