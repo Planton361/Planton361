@@ -1,5 +1,5 @@
 <!--
-Planton361 profile README — Version 1.
+Planton361 profile README — lively dark album version.
 
 The four featured repositories are currently private.
 Review every visible project note before publishing.
@@ -8,18 +8,17 @@ Review every visible project note before publishing.
 <p align="center">
   <img
     src="./assets/welcome-dark.gif"
-    alt="Welcome to my space. After a short while, the message changes."
+    alt="Welcome to my space."
     width="100%"
   >
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=20&duration=2900&pause=650&color=B69AF6&center=true&vCenter=true&repeat=false&width=940&height=70&lines=Hi%2C+I%27m+Anton.;I+build+data+systems%2C+personal+tools+and+unusual+software+experiments."
+    src="https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&size=28&duration=2900&pause=650&color=D2CDD6&center=true&vCenter=true&repeat=false&width=940&height=82&lines=Hi%2C+I%27m+Anton.;I+build+data+systems%2C+personal+tools+and+unusual+software+experiments."
     alt="Hi, I'm Anton. I build data systems, personal tools and unusual software experiments."
   >
 </p>
-
 
 <p align="center">
   <a href="#featured-memory">FEATURED</a>
@@ -39,7 +38,13 @@ Review every visible project note before publishing.
 
 <a id="featured-memory"></a>
 
-<h2>Featured Memory</h2>
+<p align="center">
+  <img
+    src="./assets/sections/featured-memory.png"
+    alt="Featured Memory"
+    width="100%"
+  >
+</p>
 
 <table>
 <tr>
@@ -47,26 +52,21 @@ Review every visible project note before publishing.
 <img src="./assets/photo-album/life-os.png" alt="Life OS featured photograph" width="100%">
 </td>
 <td width="38%" valign="middle">
+<p><sub>FEATURED MEMORY / 01</sub></p>
 <h3>Life OS</h3>
-<p><em>What should I do first?</em></p>
-<p>A personal planning and second-brain web application created to reduce decision overload across study, work and personal projects.</p>
-<p>The corridor captures the moment before the system existed: every option felt important, but none felt like the obvious first step.</p>
 <p>
-<code>Web Application</code>
-<code>Personal Planning</code>
-<code>Second Brain</code>
+<img src="./assets/notes/life-os.png" alt="What should I do first?" width="100%">
 </p>
+<p>A personal planning and second-brain application created to reduce decision overload across study, work and personal projects.</p>
+<blockquote>The corridor captures the moment before the system existed: every option felt important, but none felt like the obvious first step.</blockquote>
+<p><sub>WEB APPLICATION · PERSONAL PLANNING · SECOND BRAIN</sub></p>
 <p><a href="#life-os"><strong>Open the album entry →</strong></a></p>
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <img
-    src="./assets/divider.png"
-    alt=""
-    width="100%"
-  >
+  <img src="./assets/divider.png" alt="" width="100%">
 </p>
 
 <a id="my-photo-album"></a>
@@ -92,15 +92,14 @@ Review every visible project note before publishing.
 <img src="./assets/photo-album/fraud-prioritization.png" alt="Fraud Prioritization album photograph" width="100%">
 </td>
 <td width="42%" valign="middle">
+<p><sub>MEMORY 01 / ACTIVE MASTER'S THESIS</sub></p>
 <h3>Fraud Prioritization</h3>
-<p>A research project on ranking credit-card transactions when investigation capacity is limited.</p>
-<p>The photograph captures the central constraint: many potentially relevant cases, but only a few available review slots.</p>
 <p>
-<code>Python</code>
-<code>Learning to Rank</code>
-<code>Fraud Detection</code>
+<img src="./assets/notes/fraud-prioritization.png" alt="There was only room to investigate a few." width="100%">
 </p>
-<p><strong>Active master's thesis project</strong></p>
+<p>A research project on ranking credit-card transactions when investigation capacity is limited.</p>
+<blockquote>The photograph captures the central constraint: many potentially relevant cases, but only a few available review slots.</blockquote>
+<p><sub>PYTHON · LEARNING TO RANK · FRAUD DETECTION</sub></p>
 </td>
 </tr>
 </table>
@@ -132,15 +131,14 @@ and reproducibility.
 <table>
 <tr>
 <td width="42%" valign="middle">
+<p><sub>MEMORY 02 / ACTIVE PRIVATE PROJECT</sub></p>
 <h3>Life OS</h3>
-<p>A personal planning and second-brain web application created to reduce decision overload across study, work and personal projects.</p>
-<p>The corridor shows the moment before the system existed: every door looked important, but none looked like the obvious first step.</p>
 <p>
-<code>Web Application</code>
-<code>Personal Planning</code>
-<code>Second Brain</code>
+<img src="./assets/notes/life-os.png" alt="What should I do first?" width="100%">
 </p>
-<p><strong>Active private project</strong></p>
+<p>A personal planning and second-brain application created to reduce decision overload across study, work and personal projects.</p>
+<blockquote>The corridor shows the moment before the system existed: every door looked important, but none looked like the obvious first step.</blockquote>
+<p><sub>WEB APPLICATION · PERSONAL PLANNING · SECOND BRAIN</sub></p>
 </td>
 <td width="58%" align="center" valign="top">
 <img src="./assets/photo-album/life-os.png" alt="Life OS album photograph" width="100%">
@@ -156,8 +154,6 @@ paralysis that motivated the application.
 
 Life OS brings daily planning, tasks, projects, goals, reviews, education,
 work, coding, health and personal areas into one controlled system.
-
-Its central principle is simple:
 
 > Less interface. More control.
 
@@ -180,16 +176,14 @@ Its central principle is simple:
 <img src="./assets/photo-album/fh-agent.png" alt="FH Agent album photograph" width="100%">
 </td>
 <td width="42%" valign="middle">
+<p><sub>MEMORY 03 / ACTIVE PRIVATE EXPERIMENT</sub></p>
 <h3>FH Agent</h3>
-<p>An autonomous agent architecture designed to perceive, remember and navigate a difficult RPG without hidden game knowledge.</p>
-<p>The robot is still studying the map while the dungeon has already introduced a more immediate problem.</p>
 <p>
-<code>Python</code>
-<code>Agent Architecture</code>
-<code>Local LLM</code>
-<code>Safety</code>
+<img src="./assets/notes/fh-agent.png" alt="Run! Run! Wrong way." width="100%">
 </p>
-<p><strong>Active private experiment</strong></p>
+<p>An autonomous agent architecture designed to perceive, remember and navigate a difficult RPG without hidden game knowledge.</p>
+<blockquote>The robot is still studying the map while the dungeon has already introduced a more immediate problem.</blockquote>
+<p><sub>PYTHON · AGENT ARCHITECTURE · LOCAL LLM · SAFETY</sub></p>
 </td>
 </tr>
 </table>
@@ -221,16 +215,14 @@ autonomy or reinforcement learning.
 <table>
 <tr>
 <td width="42%" valign="middle">
+<p><sub>MEMORY 04 / ACTIVE PRIVATE WORKSPACE</sub></p>
 <h3>FireRed Randomizer</h3>
-<p>A documented workspace for combining a heavily modified FireRed-based game with a modern randomizer and supporting tools.</p>
-<p>The encounter represents a familiar debugging moment: something unexpected appears, and now the implementation has to explain why.</p>
 <p>
-<code>Java</code>
-<code>Game Modding</code>
-<code>Compatibility Engineering</code>
-<code>Testing</code>
+<img src="./assets/notes/firered-randomizer.png" alt="I don't remember implementing you." width="100%">
 </p>
-<p><strong>Active private workspace</strong></p>
+<p>A documented workspace for combining a heavily modified FireRed-based game with a modern randomizer and supporting tools.</p>
+<blockquote>The encounter represents a familiar debugging moment: something unexpected appears, and now the implementation has to explain why.</blockquote>
+<p><sub>JAVA · GAME MODDING · COMPATIBILITY ENGINEERING · TESTING</sub></p>
 </td>
 <td width="58%" align="center" valign="top">
 <img src="./assets/photo-album/firered-randomizer.png" alt="FireRed Randomizer album photograph" width="100%">
@@ -258,72 +250,123 @@ other protected artifacts remain outside version control.
 <a id="now"></a>
 
 <p align="center">
-  <img
-    src="./assets/sections/now.png"
-    alt="Now"
-    width="100%"
-  >
+  <img src="./assets/sections/now.png" alt="Now" width="100%">
 </p>
 
-> **Master's thesis**  
-> Finalizing verification, packaging and the presentation pipeline.
->
-> **Life OS**  
-> Refining personal planning, reward systems and long-term structure.
->
-> **FH Agent**  
-> Hardening safe input, dry runs and controlled live execution.
->
-> **FireRed Randomizer**  
-> Compatibility audits, runtime evidence and edge-case policy work.
+<p><sub>CURRENT FOCUS / JULY 2026</sub></p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<p><sub>RESEARCH</sub></p>
+<h3>Master's thesis</h3>
+<p>Finalizing verification, packaging and the presentation pipeline.</p>
+<p><em>Making every result reproducible and defensible.</em></p>
+</td>
+<td width="50%" valign="top">
+<p><sub>PERSONAL SYSTEMS</sub></p>
+<h3>Life OS</h3>
+<p>Refining planning, reward systems and long-term structure.</p>
+<p><em>Building the system I originally needed for myself.</em></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><sub>AGENT SYSTEMS</sub></p>
+<h3>FH Agent</h3>
+<p>Hardening safe input, dry runs and controlled live execution.</p>
+<p><em>Teaching the agent to observe before it acts.</em></p>
+</td>
+<td width="50%" valign="top">
+<p><sub>GAME TOOLING</sub></p>
+<h3>FireRed Randomizer</h3>
+<p>Compatibility audits, runtime evidence and edge-case policy work.</p>
+<p><em>Finding the bugs that only exist after everything finally boots.</em></p>
+</td>
+</tr>
+</table>
 
 <br>
 
 <a id="recent-notes"></a>
 
 <p align="center">
-  <img
-    src="./assets/sections/recent-notes.png"
-    alt="Recent Notes"
-    width="100%"
-  >
+  <img src="./assets/sections/recent-notes.png" alt="Recent Notes" width="100%">
 </p>
 
 <!-- RECENT-NOTES:START -->
 
-- **Fraud Prioritization** — Added coverage and packaging gates.
-- **Life OS** — Added shop items with atomic redemption.
-- **FH Agent** — Hardened single-directional tap smoke validation.
-- **FireRed Randomizer** — Approved the 29-slot TM/HM item-ball policy.
+<p><sub>LATEST / FRAUD PRIORITIZATION</sub></p>
+
+**Added coverage and packaging gates.**  
+The repository can now verify more of itself before trusting the results.
+
+<p><sub>LATEST / LIFE OS</sub></p>
+
+**Added shop items with atomic redemption.**  
+A small reward mechanic became another system that needed rules.
+
+<p><sub>LATEST / FH AGENT</sub></p>
+
+**Hardened single-directional tap smoke validation.**  
+Even the smallest action needs evidence before it becomes autonomous.
+
+<p><sub>LATEST / FIRERED RANDOMIZER</sub></p>
+
+**Approved the 29-slot TM/HM item-ball policy.**  
+Compatibility work eventually becomes archaeology with test cases.
 
 <!-- RECENT-NOTES:END -->
-
-<sub>
-Version 1 keeps these notes curated manually. A later workflow can replace
-only this block from selected commits.
-</sub>
 
 <br>
 
 <a id="toolbox"></a>
 
 <p align="center">
-  <img
-    src="./assets/sections/toolbox.png"
-    alt="Toolbox"
-    width="100%"
-  >
+  <img src="./assets/sections/toolbox.png" alt="Toolbox" width="100%">
 </p>
 
-**Data and machine learning**  
-`Python` · `pandas` · `scikit-learn` · `Jupyter`
+<p><sub>DRAWER 01 / DATA AND MACHINE LEARNING</sub></p>
 
-**Software and systems**  
-`SQL` · `Java` · `Git` · `GitHub Actions`
+**Python · pandas · scikit-learn · Jupyter**
 
-**Process and architecture**  
-`Camunda` · `BPMN` · `Agent workflows` · `Testing and validation` ·
-`Documentation-driven development`
+<p><sub>DRAWER 02 / SOFTWARE AND SYSTEMS</sub></p>
+
+**SQL · Java · Git · GitHub Actions**
+
+<p><sub>DRAWER 03 / PROCESS AND ARCHITECTURE</sub></p>
+
+**Camunda · BPMN · Agent workflows · Testing · Documentation-driven development**
+
+<br>
+
+<a id="open-the-sketchbook"></a>
+
+<p align="center">
+  <img src="./assets/sections/sketchbook.png" alt="Open the Sketchbook" width="100%">
+</p>
+
+<details>
+<summary>Open the sketchbook</summary>
+
+<p><sub>WORK IN PROGRESS</sub></p>
+
+- A custom activity visualization
+- Better diagrams for research and architecture
+- Small agent-memory prototypes
+- Profile animation experiments
+
+<p><sub>NOT READY FOR A REPOSITORY</sub></p>
+
+- Design fragments
+- Small utilities
+- Ideas that still need a reason to exist
+
+<sub>Last updated: July 2026</sub>
+
+</details>
+
+<br>
 
 <p align="center">
   <sub>
