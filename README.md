@@ -20,20 +20,6 @@ Review every visible project note before publishing.
   >
 </p>
 
-<p align="center">
-  <a href="#featured-memory">FEATURED</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#my-photo-album">PHOTO ALBUM</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#now">NOW</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#recent-notes">RECENT NOTES</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#toolbox">TOOLBOX</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#open-the-sketchbook">SKETCHBOOK</a>
-</p>
-
 <br>
 
 <a id="featured-memory"></a>
@@ -345,26 +331,6 @@ Compatibility work eventually becomes archaeology with test cases.
 <p align="center">
   <img src="./assets/sections/sketchbook.png" alt="Open the Sketchbook" width="100%">
 </p>
-
-<details>
-<summary>Open the sketchbook</summary>
-
-<p><sub>WORK IN PROGRESS</sub></p>
-
-- A custom activity visualization
-- Better diagrams for research and architecture
-- Small agent-memory prototypes
-- Profile animation experiments
-
-<p><sub>NOT READY FOR A REPOSITORY</sub></p>
-
-- Design fragments
-- Small utilities
-- Ideas that still need a reason to exist
-
-<sub>Last updated: July 2026</sub>
-
-</details>
 
 <br>
 
