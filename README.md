@@ -41,7 +41,7 @@ Review every visible project note before publishing.
 <p><sub>FEATURED MEMORY / 01</sub></p>
 <h3>Life OS</h3>
 <p>Life OS is a personal planning and second-brain application that brings tasks, projects, goals, study, work, health and personal routines into one place. I built it to make the next useful action easier to see when everything feels equally important.</p>
-<blockquote>There are a lot of doors here. They all look important... I have been standing here for a while.</blockquote>
+<blockquote>"There are a lot of doors here. They all look important... I have been standing here for a while."</blockquote>
 <p><sub>WEB APPLICATION · PERSONAL PLANNING · SECOND BRAIN</sub></p>
 </td>
 </tr>
