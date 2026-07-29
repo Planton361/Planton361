@@ -12,13 +12,16 @@ Review every visible project note before publishing.
     width="100%"
   >
 </p>
+
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&size=28&duration=2900&pause=650&color=D2CDD6&center=true&vCenter=true&repeat=false&width=940&height=82&lines=Hi%2C+I%27m+Anton.;I+build+data+systems%2C+personal+tools+and+unusual+software+experiments."
     alt="Hi, I'm Anton. I build data systems, personal tools and unusual software experiments."
   >
 </p>
+
 <br>
+
 <a id="featured-memory"></a>
 
 <p align="center">
@@ -37,10 +40,9 @@ Review every visible project note before publishing.
 <td width="38%" valign="middle">
 <p><sub>FEATURED MEMORY / 01</sub></p>
 <h3>Life OS</h3>
-<p>A personal planning and second-brain application created to reduce decision overload across study, work and personal projects.</p>
-<blockquote>The corridor captures the moment before the system existed: every option felt important, but none felt like the obvious first step.</blockquote>
+<p>Life OS is a personal planning and second-brain application that brings tasks, projects, goals, study, work, health and personal routines into one place. I built it to make the next useful action easier to see when everything feels equally important.</p>
+<blockquote>There are a lot of doors here. They all look important... I have been standing here for a while.</blockquote>
 <p><sub>WEB APPLICATION · PERSONAL PLANNING · SECOND BRAIN</sub></p>
-<p><a href="#life-os"><strong>Open the album entry →</strong></a></p>
 </td>
 </tr>
 </table>
@@ -62,7 +64,7 @@ Review every visible project note before publishing.
 <a id="fraud-prioritization"></a>
 
 <details>
-<summary><strong>Fraud Prioritization</strong> — There was only room to investigate a few.</summary>
+<summary><strong>Fraud Prioritization</strong> — Ranking transactions when only a limited number can be investigated.</summary>
 
 <br>
 
@@ -74,8 +76,8 @@ Review every visible project note before publishing.
 <td width="42%" valign="middle">
 <p><sub>MEMORY 01 / ACTIVE MASTER'S THESIS</sub></p>
 <h3>Fraud Prioritization</h3>
-<p>A research project on ranking credit-card transactions when investigation capacity is limited.</p>
-<blockquote>The photograph captures the central constraint: many potentially relevant cases, but only a few available review slots.</blockquote>
+<p>Fraud Prioritization is a master's thesis project about ranking credit-card transactions when investigation capacity is limited. Instead of treating every suspicious case equally, the system learns which transactions should be reviewed first under a fixed investigation budget.</p>
+<blockquote>There are receipts all over the desk. I only have room for a few in the tray... I hope I picked the right ones.</blockquote>
 <p><sub>PYTHON · LEARNING TO RANK · FRAUD DETECTION</sub></p>
 </td>
 </tr>
@@ -83,14 +85,14 @@ Review every visible project note before publishing.
 
 #### Behind the photograph
 
-The limited tray represents a fixed investigation budget. The surrounding
-receipts represent the larger candidate pool, where fraud relevance and
-potential financial impact do not always point to the same cases.
+The tray represents the available investigation capacity. The receipts around
+it represent the larger pool of transactions that could potentially require
+attention.
 
-The experimental repository evaluates budget-conditioned ranking approaches
-while keeping probability estimation, ranking scores and impact proxies
-conceptually separate. It places strong emphasis on provenance, verification
-and reproducibility.
+The project studies how ranking models can prioritize cases under different
+budgets while keeping fraud probability, ranking relevance and
+financial-impact proxies conceptually separate. It places strong emphasis on
+provenance, verification and reproducibility.
 
 **Repository:** Private
 
@@ -101,7 +103,7 @@ and reproducibility.
 <a id="life-os"></a>
 
 <details>
-<summary><strong>Life OS</strong> — What should I do first?</summary>
+<summary><strong>Life OS</strong> — A personal planning system for deciding what to do next.</summary>
 
 <br>
 
@@ -110,8 +112,8 @@ and reproducibility.
 <td width="42%" valign="middle">
 <p><sub>MEMORY 02 / ACTIVE PRIVATE PROJECT</sub></p>
 <h3>Life OS</h3>
-<p>A personal planning and second-brain application created to reduce decision overload across study, work and personal projects.</p>
-<blockquote>The corridor shows the moment before the system existed: every door looked important, but none looked like the obvious first step.</blockquote>
+<p>Life OS is a personal planning and second-brain application that brings tasks, projects, goals, study, work, health and personal routines into one place. I built it to make the next useful action easier to see when everything feels equally important.</p>
+<blockquote>There are a lot of doors here. They all look important... I have been standing here for a while.</blockquote>
 <p><sub>WEB APPLICATION · PERSONAL PLANNING · SECOND BRAIN</sub></p>
 </td>
 <td width="58%" align="center" valign="top">
@@ -122,12 +124,11 @@ and reproducibility.
 
 #### Behind the photograph
 
-The doors stand for competing obligations, projects and interests. The scene
-intentionally offers no highlighted solution: it represents the decision
-paralysis that motivated the application.
+The doors represent study, work, health, personal projects and other
+responsibilities competing for attention at the same time.
 
-Life OS brings daily planning, tasks, projects, goals, reviews, education,
-work, coding, health and personal areas into one controlled system.
+Life OS brings those areas into one controlled system so that planning becomes
+a process of choosing rather than repeatedly remembering everything.
 
 > Less interface. More control.
 
@@ -140,7 +141,7 @@ work, coding, health and personal areas into one controlled system.
 <a id="fh-agent"></a>
 
 <details>
-<summary><strong>FH Agent</strong> — Run! Run! Wrong way.</summary>
+<summary><strong>FH Agent</strong> — A perception, memory and planning architecture for autonomous RPG navigation.</summary>
 
 <br>
 
@@ -152,8 +153,8 @@ work, coding, health and personal areas into one controlled system.
 <td width="42%" valign="middle">
 <p><sub>MEMORY 03 / ACTIVE PRIVATE EXPERIMENT</sub></p>
 <h3>FH Agent</h3>
-<p>An autonomous agent architecture designed to perceive, remember and navigate a difficult RPG without hidden game knowledge.</p>
-<blockquote>The robot is still studying the map while the dungeon has already introduced a more immediate problem.</blockquote>
+<p>FH Agent is an experimental system for controlling a game through observed evidence rather than direct access to its internal state. A local language model acts as the planning layer, while separate components handle perception, memory and safe input.</p>
+<blockquote>We gave the robot a map so it would stop getting lost. It is still getting lost... just more thoughtfully now.</blockquote>
 <p><sub>PYTHON · AGENT ARCHITECTURE · LOCAL LLM · SAFETY</sub></p>
 </td>
 </tr>
@@ -161,14 +162,14 @@ work, coding, health and personal areas into one controlled system.
 
 #### Behind the photograph
 
-The map represents autonomous planning from incomplete evidence. The creature
-behind the robot represents the consequences of incorrect perception,
-delayed decisions and unsafe action.
+The image captures the difference between having information and reacting to
+it correctly.
 
-The architecture separates perception, evidence, memory, planning and safe
-execution. Early milestones deliberately focus on observation, logging,
-no-spoiler boundaries and controlled actions before adding long-running
-autonomy or reinforcement learning.
+The agent may understand part of its surroundings while still missing an
+immediate danger. This is why the architecture treats perception, evidence,
+memory, planning and execution as separate responsibilities. Early milestones
+focus on observation, logging, no-spoiler boundaries and controlled actions
+before adding long-running autonomy or reinforcement learning.
 
 **Repository:** Private
 
@@ -179,7 +180,7 @@ autonomy or reinforcement learning.
 <a id="firered-randomizer"></a>
 
 <details>
-<summary><strong>FireRed Randomizer</strong> — I don't remember implementing you.</summary>
+<summary><strong>FireRed Randomizer</strong> — A compatibility workspace for a modified FireRed-based game and modern randomizer tools.</summary>
 
 <br>
 
@@ -188,8 +189,8 @@ autonomy or reinforcement learning.
 <td width="42%" valign="middle">
 <p><sub>MEMORY 04 / ACTIVE PRIVATE WORKSPACE</sub></p>
 <h3>FireRed Randomizer</h3>
-<p>A documented workspace for combining a heavily modified FireRed-based game with a modern randomizer and supporting tools.</p>
-<blockquote>The encounter represents a familiar debugging moment: something unexpected appears, and now the implementation has to explain why.</blockquote>
+<p>FireRed Randomizer is a documented workspace for combining a heavily modified FireRed-based game with Generation 9 content, a modern randomizer and supporting emulator tools. It records compatible versions, build steps, runtime checks and known limitations so that the setup can be reproduced reliably.</p>
+<blockquote>A strange creature appeared during testing today. I do not remember putting it there... but it seems happy to be included.</blockquote>
 <p><sub>JAVA · GAME MODDING · COMPATIBILITY ENGINEERING · TESTING</sub></p>
 </td>
 <td width="58%" align="center" valign="top">
@@ -200,36 +201,58 @@ autonomy or reinforcement learning.
 
 #### Behind the photograph
 
-The creature is not a specific game character. It stands for unexpected
-combinations, visual regressions and edge cases that appear when old game
-systems meet expanded data, newer mechanics and randomized rules.
+The creature represents unexpected combinations and visual edge cases that
+appear when older game systems are extended with newer data and randomized
+rules.
 
-The workspace coordinates reproducible builds, tool versions, compatibility
-work and targeted runtime checks for a FireRed-based Gen 9 setup. ROMs and
-other protected artifacts remain outside version control.
+The workspace turns those surprises into documented policies, repeatable
+builds and targeted runtime tests. ROMs, saves and other protected artifacts
+remain outside version control.
 
 **Related public repository:**  
 [Universal Pokémon Randomizer FVX](https://github.com/Planton361/universal-pokemon-randomizer-fvx)
 
 </details>
 
+<br>
+
 <a id="toolbox"></a>
 
 <p align="center">
-  <img src="./assets/sections/toolbox.png" alt="Toolbox" width="100%">
+  <img
+    src="./assets/sections/toolbox.png"
+    alt="Toolbox"
+    width="100%"
+  >
 </p>
 
 <p><sub>DATA AND MACHINE LEARNING</sub></p>
 
-**Python · pandas · scikit-learn · Jupyter**
+<p>
+  <img src="https://img.shields.io/badge/Python-17151B?style=flat-square&logo=python&logoColor=D2CDD6" alt="Python">
+  <img src="https://img.shields.io/badge/pandas-17151B?style=flat-square&logo=pandas&logoColor=D2CDD6" alt="pandas">
+  <img src="https://img.shields.io/badge/scikit--learn-17151B?style=flat-square&logo=scikitlearn&logoColor=D2CDD6" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/Jupyter-17151B?style=flat-square&logo=jupyter&logoColor=D2CDD6" alt="Jupyter">
+</p>
 
 <p><sub>SOFTWARE AND SYSTEMS</sub></p>
 
-**SQL · Java · Git · GitHub Actions**
+<p>
+  <img src="https://img.shields.io/badge/SQL-17151B?style=flat-square&logoColor=D2CDD6" alt="SQL">
+  <img src="https://img.shields.io/badge/Java-17151B?style=flat-square&logo=openjdk&logoColor=D2CDD6" alt="Java">
+  <img src="https://img.shields.io/badge/Git-17151B?style=flat-square&logo=git&logoColor=D2CDD6" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub_Actions-17151B?style=flat-square&logo=githubactions&logoColor=D2CDD6" alt="GitHub Actions">
+</p>
 
 <p><sub>PROCESS AND ARCHITECTURE</sub></p>
 
-**Camunda · BPMN · Agent workflows · Testing · Documentation-driven development**
+<p>
+  <img src="https://img.shields.io/badge/Camunda-17151B?style=flat-square&logo=camunda&logoColor=D2CDD6" alt="Camunda">
+  <img src="https://img.shields.io/badge/BPMN-17151B?style=flat-square&logoColor=D2CDD6" alt="BPMN">
+  <img src="https://img.shields.io/badge/Agent_Workflows-17151B?style=flat-square&logoColor=D2CDD6" alt="Agent workflows">
+  <img src="https://img.shields.io/badge/Testing-17151B?style=flat-square&logo=pytest&logoColor=D2CDD6" alt="Testing">
+  <img src="https://img.shields.io/badge/Documentation--driven_Development-17151B?style=flat-square&logo=markdown&logoColor=D2CDD6" alt="Documentation-driven development">
+</p>
 
 <br>
 
