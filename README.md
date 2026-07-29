@@ -77,7 +77,7 @@ Review every visible project note before publishing.
 <p><sub>MEMORY 01 / ACTIVE MASTER'S THESIS</sub></p>
 <h3>Fraud Prioritization</h3>
 <p>Fraud Prioritization is a master's thesis project about ranking credit-card transactions when investigation capacity is limited. Instead of treating every suspicious case equally, the system learns which transactions should be reviewed first under a fixed investigation budget.</p>
-<blockquote>There are receipts all over the desk. I only have room for a few in the tray... I hope I picked the right ones.</blockquote>
+<blockquote>"There are receipts all over the desk. I only have room for a few in the tray... I hope I picked the right ones."</blockquote>
 <p><sub>PYTHON · LEARNING TO RANK · FRAUD DETECTION</sub></p>
 </td>
 </tr>
@@ -113,7 +113,7 @@ provenance, verification and reproducibility.
 <p><sub>MEMORY 02 / ACTIVE PRIVATE PROJECT</sub></p>
 <h3>Life OS</h3>
 <p>Life OS is a personal planning and second-brain application that brings tasks, projects, goals, study, work, health and personal routines into one place. I built it to make the next useful action easier to see when everything feels equally important.</p>
-<blockquote>There are a lot of doors here. They all look important... I have been standing here for a while.</blockquote>
+<blockquote>"There are a lot of doors here. They all look important... I have been standing here for a while."</blockquote>
 <p><sub>WEB APPLICATION · PERSONAL PLANNING · SECOND BRAIN</sub></p>
 </td>
 <td width="58%" align="center" valign="top">
@@ -154,7 +154,7 @@ a process of choosing rather than repeatedly remembering everything.
 <p><sub>MEMORY 03 / ACTIVE PRIVATE EXPERIMENT</sub></p>
 <h3>FH Agent</h3>
 <p>FH Agent is an experimental system for controlling a game through observed evidence rather than direct access to its internal state. A local language model acts as the planning layer, while separate components handle perception, memory and safe input.</p>
-<blockquote>We gave the robot a map so it would stop getting lost. It is still getting lost... just more thoughtfully now.</blockquote>
+<blockquote>"We gave the robot a map so it would stop getting lost. It is still getting lost... just more thoughtfully now."</blockquote>
 <p><sub>PYTHON · AGENT ARCHITECTURE · LOCAL LLM · SAFETY</sub></p>
 </td>
 </tr>
@@ -190,7 +190,7 @@ before adding long-running autonomy or reinforcement learning.
 <p><sub>MEMORY 04 / ACTIVE PRIVATE WORKSPACE</sub></p>
 <h3>FireRed Randomizer</h3>
 <p>FireRed Randomizer is a documented workspace for combining a heavily modified FireRed-based game with Generation 9 content, a modern randomizer and supporting emulator tools. It records compatible versions, build steps, runtime checks and known limitations so that the setup can be reproduced reliably.</p>
-<blockquote>A strange creature appeared during testing today. I do not remember putting it there... but it seems happy to be included.</blockquote>
+<blockquote>"A strange creature appeared during testing today. I do not remember putting it there... but it seems happy to be included."</blockquote>
 <p><sub>JAVA · GAME MODDING · COMPATIBILITY ENGINEERING · TESTING</sub></p>
 </td>
 <td width="58%" align="center" valign="top">
