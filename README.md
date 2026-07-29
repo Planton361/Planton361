@@ -79,10 +79,6 @@ Review every visible project note before publishing.
   >
 </p>
 
-<p align="center">
-  <em>Four memories from projects that grew beyond their original scope.</em>
-</p>
-
 <a id="fraud-prioritization"></a>
 
 <details>
