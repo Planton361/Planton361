@@ -326,14 +326,6 @@ Compatibility work eventually becomes archaeology with test cases.
 
 <br>
 
-<a id="open-the-sketchbook"></a>
-
-<p align="center">
-  <img src="./assets/sections/sketchbook.png" alt="Open the Sketchbook" width="100%">
-</p>
-
-<br>
-
 <p align="center">
   <sub>
     The typing animation is provided by
