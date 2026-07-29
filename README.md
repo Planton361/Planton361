@@ -20,10 +20,6 @@ Review every visible project note before publishing.
   >
 </p>
 
-<p align="center">
-  Master's student in Business Informatics and working student in financial IT.<br>
-  Interested in systems that reduce uncertainty, externalize complexity and make difficult decisions easier to handle.
-</p>
 
 <p align="center">
   <a href="#featured-memory">FEATURED</a>
@@ -332,40 +328,6 @@ only this block from selected commits.
 **Process and architecture**  
 `Camunda` · `BPMN` · `Agent workflows` · `Testing and validation` ·
 `Documentation-driven development`
-
-<br>
-
-<a id="open-the-sketchbook"></a>
-
-<p align="center">
-  <img
-    src="./assets/sections/sketchbook.png"
-    alt="Open the Sketchbook"
-    width="100%"
-  >
-</p>
-
-<details>
-<summary>Open the sketchbook</summary>
-
-### In progress
-
-- A custom activity visualization
-- Better diagrams for research and architecture
-- Small agent-memory prototypes
-- Profile animation experiments
-
-### Not ready for a repository
-
-- Design fragments
-- Small utilities
-- Ideas that still need a reason to exist
-
-<sub>Last updated: July 2026</sub>
-
-</details>
-
-<br>
 
 <p align="center">
   <sub>
