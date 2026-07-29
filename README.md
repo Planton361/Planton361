@@ -312,15 +312,15 @@ Compatibility work eventually becomes archaeology with test cases.
   <img src="./assets/sections/toolbox.png" alt="Toolbox" width="100%">
 </p>
 
-<p><sub>DRAWER 01 / DATA AND MACHINE LEARNING</sub></p>
+<p><sub>DATA AND MACHINE LEARNING</sub></p>
 
 **Python · pandas · scikit-learn · Jupyter**
 
-<p><sub>DRAWER 02 / SOFTWARE AND SYSTEMS</sub></p>
+<p><sub>SOFTWARE AND SYSTEMS</sub></p>
 
 **SQL · Java · Git · GitHub Actions**
 
-<p><sub>DRAWER 03 / PROCESS AND ARCHITECTURE</sub></p>
+<p><sub>PROCESS AND ARCHITECTURE</sub></p>
 
 **Camunda · BPMN · Agent workflows · Testing · Documentation-driven development**
 
