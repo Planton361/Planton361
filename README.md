@@ -43,46 +43,26 @@ Review every visible project note before publishing.
 
 <a id="featured-memory"></a>
 
-## Featured Memory
+<h2>Featured Memory</h2>
 
 <table>
-  <tr>
-    <td width="62%" align="center" valign="top">
-      <img
-        src="./assets/photo-album/life-os.png"
-        alt="Life OS featured photograph"
-        width="100%"
-      >
-    </td>
-
-    <td width="38%" valign="middle">
-      <h3>Life OS</h3>
-
-      <p><em>What should I do first?</em></p>
-
-      <p>
-        A personal planning and second-brain web application created to
-        reduce decision overload across study, work and personal projects.
-      </p>
-
-      <p>
-        The corridor captures the moment before the system existed:
-        every option felt important, but none felt like the obvious first step.
-      </p>
-
-      <p>
-        <code>Web Application</code>
-        <code>Personal Planning</code>
-        <code>Second Brain</code>
-      </p>
-
-      <p>
-        <a href="#life-os">
-          <strong>Open the album entry →</strong>
-        </a>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="62%" align="center" valign="top">
+<img src="./assets/photo-album/life-os.png" alt="Life OS featured photograph" width="100%">
+</td>
+<td width="38%" valign="middle">
+<h3>Life OS</h3>
+<p><em>What should I do first?</em></p>
+<p>A personal planning and second-brain web application created to reduce decision overload across study, work and personal projects.</p>
+<p>The corridor captures the moment before the system existed: every option felt important, but none felt like the obvious first step.</p>
+<p>
+<code>Web Application</code>
+<code>Personal Planning</code>
+<code>Second Brain</code>
+</p>
+<p><a href="#life-os"><strong>Open the album entry →</strong></a></p>
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -110,48 +90,27 @@ Review every visible project note before publishing.
 <a id="fraud-prioritization"></a>
 
 <details>
-<summary>
-  <strong>Fraud Prioritization</strong>
-  — There was only room to investigate a few.
-</summary>
+<summary><strong>Fraud Prioritization</strong> — There was only room to investigate a few.</summary>
 
 <br>
 
 <table>
-  <tr>
-    <td width="58%" align="center" valign="top">
-      <img
-        src="./assets/photo-album/fraud-prioritization.png"
-        alt="Fraud Prioritization album photograph"
-        width="100%"
-      >
-    </td>
-
-    <td width="42%" valign="middle">
-      <h3>Fraud Prioritization</h3>
-
-      <p>
-        A research project on ranking credit-card transactions when
-        investigation capacity is limited.
-      </p>
-
-      <p>
-        The photograph captures the central constraint:
-        many potentially relevant cases, but only a few
-        available review slots.
-      </p>
-
-      <p>
-        <code>Python</code>
-        <code>Learning to Rank</code>
-        <code>Fraud Detection</code>
-      </p>
-
-      <p>
-        <strong>Active master's thesis project</strong>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="58%" align="center" valign="top">
+<img src="./assets/photo-album/fraud-prioritization.png" alt="Fraud Prioritization album photograph" width="100%">
+</td>
+<td width="42%" valign="middle">
+<h3>Fraud Prioritization</h3>
+<p>A research project on ranking credit-card transactions when investigation capacity is limited.</p>
+<p>The photograph captures the central constraint: many potentially relevant cases, but only a few available review slots.</p>
+<p>
+<code>Python</code>
+<code>Learning to Rank</code>
+<code>Fraud Detection</code>
+</p>
+<p><strong>Active master's thesis project</strong></p>
+</td>
+</tr>
 </table>
 
 #### Behind the photograph
@@ -174,47 +133,27 @@ and reproducibility.
 <a id="life-os"></a>
 
 <details>
-<summary>
-  <strong>Life OS</strong>
-  — What should I do first?
-</summary>
+<summary><strong>Life OS</strong> — What should I do first?</summary>
 
 <br>
 
 <table>
-  <tr>
-    <td width="42%" valign="middle">
-      <h3>Life OS</h3>
-
-      <p>
-        A personal planning and second-brain web application created to
-        reduce decision overload across study, work and personal projects.
-      </p>
-
-      <p>
-        The corridor shows the moment before the system existed:
-        every door looked important, but none looked like the obvious first step.
-      </p>
-
-      <p>
-        <code>Web Application</code>
-        <code>Personal Planning</code>
-        <code>Second Brain</code>
-      </p>
-
-      <p>
-        <strong>Active private project</strong>
-      </p>
-    </td>
-
-    <td width="58%" align="center" valign="top">
-      <img
-        src="./assets/photo-album/life-os.png"
-        alt="Life OS album photograph"
-        width="100%"
-      >
-    </td>
-  </tr>
+<tr>
+<td width="42%" valign="middle">
+<h3>Life OS</h3>
+<p>A personal planning and second-brain web application created to reduce decision overload across study, work and personal projects.</p>
+<p>The corridor shows the moment before the system existed: every door looked important, but none looked like the obvious first step.</p>
+<p>
+<code>Web Application</code>
+<code>Personal Planning</code>
+<code>Second Brain</code>
+</p>
+<p><strong>Active private project</strong></p>
+</td>
+<td width="58%" align="center" valign="top">
+<img src="./assets/photo-album/life-os.png" alt="Life OS album photograph" width="100%">
+</td>
+</tr>
 </table>
 
 #### Behind the photograph
@@ -239,49 +178,28 @@ Its central principle is simple:
 <a id="fh-agent"></a>
 
 <details>
-<summary>
-  <strong>FH Agent</strong>
-  — Run! Run! Wrong way.
-</summary>
+<summary><strong>FH Agent</strong> — Run! Run! Wrong way.</summary>
 
 <br>
 
 <table>
-  <tr>
-    <td width="58%" align="center" valign="top">
-      <img
-        src="./assets/photo-album/fh-agent.png"
-        alt="FH Agent album photograph"
-        width="100%"
-      >
-    </td>
-
-    <td width="42%" valign="middle">
-      <h3>FH Agent</h3>
-
-      <p>
-        An autonomous agent architecture designed to perceive,
-        remember and navigate a difficult RPG without hidden
-        game knowledge.
-      </p>
-
-      <p>
-        The robot is still studying the map while the dungeon
-        has already introduced a more immediate problem.
-      </p>
-
-      <p>
-        <code>Python</code>
-        <code>Agent Architecture</code>
-        <code>Local LLM</code>
-        <code>Safety</code>
-      </p>
-
-      <p>
-        <strong>Active private experiment</strong>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="58%" align="center" valign="top">
+<img src="./assets/photo-album/fh-agent.png" alt="FH Agent album photograph" width="100%">
+</td>
+<td width="42%" valign="middle">
+<h3>FH Agent</h3>
+<p>An autonomous agent architecture designed to perceive, remember and navigate a difficult RPG without hidden game knowledge.</p>
+<p>The robot is still studying the map while the dungeon has already introduced a more immediate problem.</p>
+<p>
+<code>Python</code>
+<code>Agent Architecture</code>
+<code>Local LLM</code>
+<code>Safety</code>
+</p>
+<p><strong>Active private experiment</strong></p>
+</td>
+</tr>
 </table>
 
 #### Behind the photograph
@@ -304,49 +222,28 @@ autonomy or reinforcement learning.
 <a id="firered-randomizer"></a>
 
 <details>
-<summary>
-  <strong>FireRed Randomizer</strong>
-  — I don't remember implementing you.
-</summary>
+<summary><strong>FireRed Randomizer</strong> — I don't remember implementing you.</summary>
 
 <br>
 
 <table>
-  <tr>
-    <td width="42%" valign="middle">
-      <h3>FireRed Randomizer</h3>
-
-      <p>
-        A documented workspace for combining a heavily modified
-        FireRed-based game with a modern randomizer and supporting tools.
-      </p>
-
-      <p>
-        The encounter represents a familiar debugging moment:
-        something unexpected appears, and now the implementation
-        has to explain why.
-      </p>
-
-      <p>
-        <code>Java</code>
-        <code>Game Modding</code>
-        <code>Compatibility Engineering</code>
-        <code>Testing</code>
-      </p>
-
-      <p>
-        <strong>Active private workspace</strong>
-      </p>
-    </td>
-
-    <td width="58%" align="center" valign="top">
-      <img
-        src="./assets/photo-album/firered-randomizer.png"
-        alt="FireRed Randomizer album photograph"
-        width="100%"
-      >
-    </td>
-  </tr>
+<tr>
+<td width="42%" valign="middle">
+<h3>FireRed Randomizer</h3>
+<p>A documented workspace for combining a heavily modified FireRed-based game with a modern randomizer and supporting tools.</p>
+<p>The encounter represents a familiar debugging moment: something unexpected appears, and now the implementation has to explain why.</p>
+<p>
+<code>Java</code>
+<code>Game Modding</code>
+<code>Compatibility Engineering</code>
+<code>Testing</code>
+</p>
+<p><strong>Active private workspace</strong></p>
+</td>
+<td width="58%" align="center" valign="top">
+<img src="./assets/photo-album/firered-randomizer.png" alt="FireRed Randomizer album photograph" width="100%">
+</td>
+</tr>
 </table>
 
 #### Behind the photograph
