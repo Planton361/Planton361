@@ -1,5 +1,5 @@
 <!--
-Planton361 profile README — Version 1, dark collapsible album layout.
+Planton361 profile README — Version 1.
 
 The four featured repositories are currently private.
 Review every visible project note before publishing.
@@ -43,15 +43,7 @@ Review every visible project note before publishing.
 
 <a id="featured-memory"></a>
 
-<p align="center">
-  <img
-    src="./assets/sections/featured-memory.png"
-    alt="Featured Memory"
-    width="100%"
-  >
-</p>
-
-<!-- FEATURED-MEMORY:START -->
+## Featured Memory
 
 <table>
   <tr>
@@ -69,23 +61,37 @@ Review every visible project note before publishing.
       <p><em>What should I do first?</em></p>
 
       <p>
-        A personal planning and second-brain application
-        created to reduce decision overload across study,
-        work and personal projects.
+        A personal planning and second-brain web application created to
+        reduce decision overload across study, work and personal projects.
       </p>
 
       <p>
-        This photograph captures the moment before the
-        system existed: every option felt important,
-        but none felt like the obvious first step.
+        The corridor captures the moment before the system existed:
+        every option felt important, but none felt like the obvious first step.
       </p>
 
-      <p><a href="#life-os"><strong>Open the album entry →</strong></a></p>
+      <p>
+        <code>Web Application</code>
+        <code>Personal Planning</code>
+        <code>Second Brain</code>
+      </p>
+
+      <p>
+        <a href="#life-os">
+          <strong>Open the album entry →</strong>
+        </a>
+      </p>
     </td>
   </tr>
 </table>
 
-<!-- FEATURED-MEMORY:END -->
+<p align="center">
+  <img
+    src="./assets/divider.png"
+    alt=""
+    width="100%"
+  >
+</p>
 
 <a id="my-photo-album"></a>
 
@@ -100,6 +106,8 @@ Review every visible project note before publishing.
 <p align="center">
   <em>Four memories from projects that grew beyond their original scope.</em>
 </p>
+
+<a id="fraud-prioritization"></a>
 
 <details>
 <summary>
@@ -118,22 +126,30 @@ Review every visible project note before publishing.
         width="100%"
       >
     </td>
+
     <td width="42%" valign="middle">
       <h3>Fraud Prioritization</h3>
+
       <p>
-        A research project on ranking credit-card transactions when investigation
-        capacity is limited.
+        A research project on ranking credit-card transactions when
+        investigation capacity is limited.
       </p>
+
       <p>
-        The photograph captures the central constraint: many potentially relevant
-        cases, but only a few available review slots.
+        The photograph captures the central constraint:
+        many potentially relevant cases, but only a few
+        available review slots.
       </p>
+
       <p>
         <code>Python</code>
         <code>Learning to Rank</code>
         <code>Fraud Detection</code>
       </p>
-      <p><strong>Active master's thesis project</strong></p>
+
+      <p>
+        <strong>Active master's thesis project</strong>
+      </p>
     </td>
   </tr>
 </table>
@@ -155,6 +171,8 @@ and reproducibility.
 
 <br>
 
+<a id="life-os"></a>
+
 <details>
 <summary>
   <strong>Life OS</strong>
@@ -167,21 +185,28 @@ and reproducibility.
   <tr>
     <td width="42%" valign="middle">
       <h3>Life OS</h3>
+
       <p>
-        A personal planning and second-brain web application created to reduce
-        decision overload across study, work and personal projects.
+        A personal planning and second-brain web application created to
+        reduce decision overload across study, work and personal projects.
       </p>
+
       <p>
-        The corridor shows the moment before the system existed: every door looked
-        important, but none looked like the obvious first step.
+        The corridor shows the moment before the system existed:
+        every door looked important, but none looked like the obvious first step.
       </p>
+
       <p>
         <code>Web Application</code>
         <code>Personal Planning</code>
         <code>Second Brain</code>
       </p>
-      <p><strong>Active private project</strong></p>
+
+      <p>
+        <strong>Active private project</strong>
+      </p>
     </td>
+
     <td width="58%" align="center" valign="top">
       <img
         src="./assets/photo-album/life-os.png"
@@ -199,14 +224,19 @@ intentionally offers no highlighted solution: it represents the decision
 paralysis that motivated the application.
 
 Life OS brings daily planning, tasks, projects, goals, reviews, education,
-work, coding, health and personal areas into one controlled system. Its central
-principle is simple: less interface, more control.
+work, coding, health and personal areas into one controlled system.
+
+Its central principle is simple:
+
+> Less interface. More control.
 
 **Repository:** Private
 
 </details>
 
 <br>
+
+<a id="fh-agent"></a>
 
 <details>
 <summary>
@@ -225,23 +255,31 @@ principle is simple: less interface, more control.
         width="100%"
       >
     </td>
+
     <td width="42%" valign="middle">
       <h3>FH Agent</h3>
+
       <p>
-        An autonomous agent architecture designed to perceive, remember and
-        navigate a difficult RPG without hidden game knowledge.
+        An autonomous agent architecture designed to perceive,
+        remember and navigate a difficult RPG without hidden
+        game knowledge.
       </p>
+
       <p>
-        The robot is still studying the map while the dungeon has already
-        introduced a more immediate problem.
+        The robot is still studying the map while the dungeon
+        has already introduced a more immediate problem.
       </p>
+
       <p>
         <code>Python</code>
         <code>Agent Architecture</code>
         <code>Local LLM</code>
         <code>Safety</code>
       </p>
-      <p><strong>Active private experiment</strong></p>
+
+      <p>
+        <strong>Active private experiment</strong>
+      </p>
     </td>
   </tr>
 </table>
@@ -249,8 +287,8 @@ principle is simple: less interface, more control.
 #### Behind the photograph
 
 The map represents autonomous planning from incomplete evidence. The creature
-behind the robot represents the consequences of incorrect perception, delayed
-decisions and unsafe action.
+behind the robot represents the consequences of incorrect perception,
+delayed decisions and unsafe action.
 
 The architecture separates perception, evidence, memory, planning and safe
 execution. Early milestones deliberately focus on observation, logging,
@@ -262,6 +300,8 @@ autonomy or reinforcement learning.
 </details>
 
 <br>
+
+<a id="firered-randomizer"></a>
 
 <details>
 <summary>
@@ -275,22 +315,30 @@ autonomy or reinforcement learning.
   <tr>
     <td width="42%" valign="middle">
       <h3>FireRed Randomizer</h3>
+
       <p>
-        A documented workspace for combining a heavily modified FireRed-based
-        game with a modern randomizer and supporting tools.
+        A documented workspace for combining a heavily modified
+        FireRed-based game with a modern randomizer and supporting tools.
       </p>
+
       <p>
-        The encounter represents a familiar debugging moment: something
-        unexpected appears, and now the implementation has to explain why.
+        The encounter represents a familiar debugging moment:
+        something unexpected appears, and now the implementation
+        has to explain why.
       </p>
+
       <p>
         <code>Java</code>
         <code>Game Modding</code>
         <code>Compatibility Engineering</code>
         <code>Testing</code>
       </p>
-      <p><strong>Active private workspace</strong></p>
+
+      <p>
+        <strong>Active private workspace</strong>
+      </p>
     </td>
+
     <td width="58%" align="center" valign="top">
       <img
         src="./assets/photo-album/firered-randomizer.png"
@@ -362,8 +410,8 @@ other protected artifacts remain outside version control.
 <!-- RECENT-NOTES:END -->
 
 <sub>
-Version 1 keeps these notes curated manually. A later workflow can replace only
-this block from selected commits.
+Version 1 keeps these notes curated manually. A later workflow can replace
+only this block from selected commits.
 </sub>
 
 <br>
@@ -425,6 +473,8 @@ this block from selected commits.
 <p align="center">
   <sub>
     The typing animation is provided by
-    <a href="https://github.com/DenverCoder1/readme-typing-svg">Readme Typing SVG</a>.
+    <a href="https://github.com/DenverCoder1/readme-typing-svg">
+      Readme Typing SVG
+    </a>.
   </sub>
 </p>
