@@ -12,16 +12,13 @@ Review every visible project note before publishing.
     width="100%"
   >
 </p>
-
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&size=28&duration=2900&pause=650&color=D2CDD6&center=true&vCenter=true&repeat=false&width=940&height=82&lines=Hi%2C+I%27m+Anton.;I+build+data+systems%2C+personal+tools+and+unusual+software+experiments."
     alt="Hi, I'm Anton. I build data systems, personal tools and unusual software experiments."
   >
 </p>
-
 <br>
-
 <a id="featured-memory"></a>
 
 <p align="center">
@@ -40,9 +37,6 @@ Review every visible project note before publishing.
 <td width="38%" valign="middle">
 <p><sub>FEATURED MEMORY / 01</sub></p>
 <h3>Life OS</h3>
-<p>
-<img src="./assets/notes/life-os.png" alt="What should I do first?" width="100%">
-</p>
 <p>A personal planning and second-brain application created to reduce decision overload across study, work and personal projects.</p>
 <blockquote>The corridor captures the moment before the system existed: every option felt important, but none felt like the obvious first step.</blockquote>
 <p><sub>WEB APPLICATION · PERSONAL PLANNING · SECOND BRAIN</sub></p>
@@ -80,9 +74,6 @@ Review every visible project note before publishing.
 <td width="42%" valign="middle">
 <p><sub>MEMORY 01 / ACTIVE MASTER'S THESIS</sub></p>
 <h3>Fraud Prioritization</h3>
-<p>
-<img src="./assets/notes/fraud-prioritization.png" alt="There was only room to investigate a few." width="100%">
-</p>
 <p>A research project on ranking credit-card transactions when investigation capacity is limited.</p>
 <blockquote>The photograph captures the central constraint: many potentially relevant cases, but only a few available review slots.</blockquote>
 <p><sub>PYTHON · LEARNING TO RANK · FRAUD DETECTION</sub></p>
@@ -119,9 +110,6 @@ and reproducibility.
 <td width="42%" valign="middle">
 <p><sub>MEMORY 02 / ACTIVE PRIVATE PROJECT</sub></p>
 <h3>Life OS</h3>
-<p>
-<img src="./assets/notes/life-os.png" alt="What should I do first?" width="100%">
-</p>
 <p>A personal planning and second-brain application created to reduce decision overload across study, work and personal projects.</p>
 <blockquote>The corridor shows the moment before the system existed: every door looked important, but none looked like the obvious first step.</blockquote>
 <p><sub>WEB APPLICATION · PERSONAL PLANNING · SECOND BRAIN</sub></p>
@@ -164,9 +152,6 @@ work, coding, health and personal areas into one controlled system.
 <td width="42%" valign="middle">
 <p><sub>MEMORY 03 / ACTIVE PRIVATE EXPERIMENT</sub></p>
 <h3>FH Agent</h3>
-<p>
-<img src="./assets/notes/fh-agent.png" alt="Run! Run! Wrong way." width="100%">
-</p>
 <p>An autonomous agent architecture designed to perceive, remember and navigate a difficult RPG without hidden game knowledge.</p>
 <blockquote>The robot is still studying the map while the dungeon has already introduced a more immediate problem.</blockquote>
 <p><sub>PYTHON · AGENT ARCHITECTURE · LOCAL LLM · SAFETY</sub></p>
@@ -203,9 +188,6 @@ autonomy or reinforcement learning.
 <td width="42%" valign="middle">
 <p><sub>MEMORY 04 / ACTIVE PRIVATE WORKSPACE</sub></p>
 <h3>FireRed Randomizer</h3>
-<p>
-<img src="./assets/notes/firered-randomizer.png" alt="I don't remember implementing you." width="100%">
-</p>
 <p>A documented workspace for combining a heavily modified FireRed-based game with a modern randomizer and supporting tools.</p>
 <blockquote>The encounter represents a familiar debugging moment: something unexpected appears, and now the implementation has to explain why.</blockquote>
 <p><sub>JAVA · GAME MODDING · COMPATIBILITY ENGINEERING · TESTING</sub></p>
