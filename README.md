@@ -26,6 +26,8 @@ Review every visible project note before publishing.
 </p>
 
 <p align="center">
+  <a href="#featured-memory">FEATURED</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#my-photo-album">PHOTO ALBUM</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#now">NOW</a>
@@ -38,6 +40,52 @@ Review every visible project note before publishing.
 </p>
 
 <br>
+
+<a id="featured-memory"></a>
+
+<p align="center">
+  <img
+    src="./assets/sections/featured-memory.png"
+    alt="Featured Memory"
+    width="100%"
+  >
+</p>
+
+<!-- FEATURED-MEMORY:START -->
+
+<table>
+  <tr>
+    <td width="62%" align="center" valign="top">
+      <img
+        src="./assets/photo-album/life-os.png"
+        alt="Life OS featured photograph"
+        width="100%"
+      >
+    </td>
+
+    <td width="38%" valign="middle">
+      <h3>Life OS</h3>
+
+      <p><em>What should I do first?</em></p>
+
+      <p>
+        A personal planning and second-brain application
+        created to reduce decision overload across study,
+        work and personal projects.
+      </p>
+
+      <p>
+        This photograph captures the moment before the
+        system existed: every option felt important,
+        but none felt like the obvious first step.
+      </p>
+
+      <p><a href="#life-os"><strong>Open the album entry →</strong></a></p>
+    </td>
+  </tr>
+</table>
+
+<!-- FEATURED-MEMORY:END -->
 
 <a id="my-photo-album"></a>
 
