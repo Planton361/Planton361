@@ -20,9 +20,6 @@ Review every visible project note before publishing.
   >
 </p>
 
-<br>
-
-
 <p align="center">
   <img src="./assets/divider.png" alt="" width="100%">
 </p>
