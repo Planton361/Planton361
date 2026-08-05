@@ -22,30 +22,6 @@ Review every visible project note before publishing.
 
 <br>
 
-<a id="featured-memory"></a>
-
-<p align="center">
-  <img
-    src="./assets/sections/featured-memory.png"
-    alt="Featured Memory"
-    width="100%"
-  >
-</p>
-
-<table>
-<tr>
-<td width="62%" align="center" valign="top">
-<img src="./assets/photo-album/life-os.png" alt="Life OS featured photograph" width="100%">
-</td>
-<td width="38%" valign="middle">
-<p><sub>FEATURED MEMORY / 01</sub></p>
-<h3>Life OS</h3>
-<p>Life OS is a personal planning and second-brain application that brings tasks, projects, goals, study, work, health and personal routines into one place. I built it to make the next useful action easier to see when everything feels equally important.</p>
-<blockquote>"There are a lot of doors here. They all look important... I have been standing here for a while."</blockquote>
-<p><sub>WEB APPLICATION · PERSONAL PLANNING · SECOND BRAIN</sub></p>
-</td>
-</tr>
-</table>
 
 <p align="center">
   <img src="./assets/divider.png" alt="" width="100%">
