@@ -199,12 +199,13 @@ What I'm learning — and how the pieces connect.
 31 / 89 course topics learned · 12 verified
 
 **Knowledge areas**<br>
-[Java](https://planton361.github.io/hyperskill-projects/knowledge-map/?domain=java) — 26 learned · [Software development](https://planton361.github.io/hyperskill-projects/knowledge-map/?domain=software) — 5 learned
+[Java](https://planton361.github.io/hyperskill-projects/knowledge-map/?domain=java) — 26 learned<br>
+[Software development](https://planton361.github.io/hyperskill-projects/knowledge-map/?domain=software) — 5 learned
 
 **Project evidence**<br>
 [Simple Chat Bot with Java](https://hyperskill.org/projects/113) — Completed · 26 required topics across its project stages
 
-**[Explore my interactive Knowledge Map →](https://planton361.github.io/hyperskill-projects/knowledge-map/)**
+**[Explore my interactive Knowledge Map&nbsp;→](https://planton361.github.io/hyperskill-projects/knowledge-map/)**
 
 <details>
 <summary>How this is measured</summary>
