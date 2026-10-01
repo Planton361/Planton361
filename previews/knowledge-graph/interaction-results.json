@@ -1,0 +1,38 @@
+[
+  {
+    "theme": "dark",
+    "width": 1440,
+    "zoom": true,
+    "pan": true,
+    "reset": true,
+    "nodeLinkNavigated": "https://planton361.github.io/hyperskill-projects/knowledge-graph/",
+    "newTab": false
+  },
+  {
+    "theme": "dark",
+    "width": 390,
+    "zoom": true,
+    "pan": true,
+    "reset": true,
+    "nodeLinkNavigated": "https://planton361.github.io/hyperskill-projects/knowledge-graph/",
+    "newTab": false
+  },
+  {
+    "theme": "light",
+    "width": 1440,
+    "zoom": true,
+    "pan": true,
+    "reset": true,
+    "nodeLinkNavigated": "https://planton361.github.io/hyperskill-projects/knowledge-graph/",
+    "newTab": false
+  },
+  {
+    "theme": "light",
+    "width": 390,
+    "zoom": true,
+    "pan": true,
+    "reset": true,
+    "nodeLinkNavigated": "https://planton361.github.io/hyperskill-projects/knowledge-graph/",
+    "newTab": false
+  }
+]

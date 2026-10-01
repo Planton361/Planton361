@@ -1,0 +1,547 @@
+{
+  "observed_at": "2026-10-01T15:25:31.829Z",
+  "browser": "Chromium; signed out; fresh nonpersistent contexts",
+  "results": [
+    {
+      "theme": "dark",
+      "width": 1440,
+      "variant": "a",
+      "body": {
+        "scroll": 1440,
+        "width": 1440
+      },
+      "article": {
+        "x": 374.5,
+        "y": 386,
+        "width": 1012,
+        "height": 1988.71875
+      },
+      "picture": {
+        "src": "knowledge-dark.svg",
+        "complete": true,
+        "width": 1012,
+        "height": 1529
+      },
+      "details": true,
+      "detailGraphs": [
+        {
+          "nodes": 31,
+          "edges": 38
+        }
+      ]
+    },
+    {
+      "theme": "dark",
+      "width": 1440,
+      "variant": "b",
+      "body": {
+        "scroll": 1440,
+        "width": 1440
+      },
+      "article": {
+        "x": 374.5,
+        "y": 386,
+        "width": 1012,
+        "height": 1486.375
+      },
+      "graph": {
+        "nodes": 31,
+        "clusters": 6,
+        "edges": 28,
+        "viewBox": "-40 -40 2129.68359375 2088",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1012,
+          "height": 2088,
+          "top": 0,
+          "right": 1012,
+          "bottom": 2088,
+          "left": 0
+        },
+        "label": {
+          "x": 660.6347045898438,
+          "y": 714.20751953125,
+          "width": 135.242919921875,
+          "height": 11.40447998046875,
+          "top": 714.20751953125,
+          "right": 795.8776245117188,
+          "bottom": 725.6119995117188,
+          "left": 660.6347045898438
+        },
+        "buttons": [
+          {
+            "label": "Zoom in",
+            "title": ""
+          },
+          {
+            "label": "Zoom out",
+            "title": ""
+          },
+          {
+            "label": "Reset view",
+            "title": ""
+          },
+          {
+            "label": "Pan up",
+            "title": ""
+          },
+          {
+            "label": "Pan down",
+            "title": ""
+          },
+          {
+            "label": "Pan left",
+            "title": ""
+          },
+          {
+            "label": "Pan right",
+            "title": ""
+          }
+        ],
+        "anchors": 31
+      },
+      "details": true,
+      "detailGraphs": [
+        {
+          "nodes": 31,
+          "edges": 28
+        },
+        {
+          "nodes": 31,
+          "edges": 38
+        }
+      ]
+    },
+    {
+      "theme": "dark",
+      "width": 390,
+      "variant": "a",
+      "body": {
+        "scroll": 390,
+        "width": 390
+      },
+      "article": {
+        "x": 33,
+        "y": 475,
+        "width": 324,
+        "height": 2563.3125
+      },
+      "picture": {
+        "src": "knowledge-dark-mobile.svg",
+        "complete": true,
+        "width": 324,
+        "height": 1815
+      },
+      "details": true,
+      "detailGraphs": [
+        {
+          "nodes": 31,
+          "edges": 38
+        }
+      ]
+    },
+    {
+      "theme": "dark",
+      "width": 390,
+      "variant": "b",
+      "body": {
+        "scroll": 390,
+        "width": 390
+      },
+      "article": {
+        "x": 33,
+        "y": 475,
+        "width": 324,
+        "height": 1171.84375
+      },
+      "graph": {
+        "nodes": 31,
+        "clusters": 6,
+        "edges": 28,
+        "viewBox": "-40 -40 2129.68359375 2088",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 324,
+          "height": 2088,
+          "top": 0,
+          "right": 324,
+          "bottom": 2088,
+          "left": 0
+        },
+        "label": {
+          "x": 211.50755310058594,
+          "y": 228.65931701660156,
+          "width": 43.29911804199219,
+          "height": 3.6512451171875,
+          "top": 228.65931701660156,
+          "right": 254.80667114257812,
+          "bottom": 232.31056213378906,
+          "left": 211.50755310058594
+        },
+        "buttons": [
+          {
+            "label": "Zoom in",
+            "title": ""
+          },
+          {
+            "label": "Zoom out",
+            "title": ""
+          },
+          {
+            "label": "Reset view",
+            "title": ""
+          },
+          {
+            "label": "Pan up",
+            "title": ""
+          },
+          {
+            "label": "Pan down",
+            "title": ""
+          },
+          {
+            "label": "Pan left",
+            "title": ""
+          },
+          {
+            "label": "Pan right",
+            "title": ""
+          }
+        ],
+        "anchors": 31
+      },
+      "details": true,
+      "detailGraphs": [
+        {
+          "nodes": 31,
+          "edges": 28
+        },
+        {
+          "nodes": 31,
+          "edges": 38
+        }
+      ]
+    },
+    {
+      "theme": "light",
+      "width": 1440,
+      "variant": "a",
+      "body": {
+        "scroll": 1440,
+        "width": 1440
+      },
+      "article": {
+        "x": 374.5,
+        "y": 386,
+        "width": 1012,
+        "height": 1988.71875
+      },
+      "picture": {
+        "src": "knowledge-light.svg",
+        "complete": true,
+        "width": 1012,
+        "height": 1529
+      },
+      "details": true,
+      "detailGraphs": [
+        {
+          "nodes": 31,
+          "edges": 38
+        }
+      ]
+    },
+    {
+      "theme": "light",
+      "width": 1440,
+      "variant": "b",
+      "body": {
+        "scroll": 1440,
+        "width": 1440
+      },
+      "article": {
+        "x": 374.5,
+        "y": 386,
+        "width": 1012,
+        "height": 1486.375
+      },
+      "graph": {
+        "nodes": 31,
+        "clusters": 6,
+        "edges": 28,
+        "viewBox": "-40 -40 2129.68359375 2088",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1012,
+          "height": 2088,
+          "top": 0,
+          "right": 1012,
+          "bottom": 2088,
+          "left": 0
+        },
+        "label": {
+          "x": 660.6347045898438,
+          "y": 714.20751953125,
+          "width": 135.242919921875,
+          "height": 11.40447998046875,
+          "top": 714.20751953125,
+          "right": 795.8776245117188,
+          "bottom": 725.6119995117188,
+          "left": 660.6347045898438
+        },
+        "buttons": [
+          {
+            "label": "Zoom in",
+            "title": ""
+          },
+          {
+            "label": "Zoom out",
+            "title": ""
+          },
+          {
+            "label": "Reset view",
+            "title": ""
+          },
+          {
+            "label": "Pan up",
+            "title": ""
+          },
+          {
+            "label": "Pan down",
+            "title": ""
+          },
+          {
+            "label": "Pan left",
+            "title": ""
+          },
+          {
+            "label": "Pan right",
+            "title": ""
+          }
+        ],
+        "anchors": 31
+      },
+      "details": true,
+      "detailGraphs": [
+        {
+          "nodes": 31,
+          "edges": 28
+        },
+        {
+          "nodes": 31,
+          "edges": 38
+        }
+      ]
+    },
+    {
+      "theme": "light",
+      "width": 390,
+      "variant": "a",
+      "body": {
+        "scroll": 390,
+        "width": 390
+      },
+      "article": {
+        "x": 33,
+        "y": 475,
+        "width": 324,
+        "height": 2563.3125
+      },
+      "picture": {
+        "src": "knowledge-light-mobile.svg",
+        "complete": true,
+        "width": 324,
+        "height": 1815
+      },
+      "details": true,
+      "detailGraphs": [
+        {
+          "nodes": 31,
+          "edges": 38
+        }
+      ]
+    },
+    {
+      "theme": "light",
+      "width": 390,
+      "variant": "b",
+      "body": {
+        "scroll": 390,
+        "width": 390
+      },
+      "article": {
+        "x": 33,
+        "y": 475,
+        "width": 324,
+        "height": 1171.84375
+      },
+      "graph": {
+        "nodes": 31,
+        "clusters": 6,
+        "edges": 28,
+        "viewBox": "-40 -40 2129.68359375 2088",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 324,
+          "height": 2088,
+          "top": 0,
+          "right": 324,
+          "bottom": 2088,
+          "left": 0
+        },
+        "label": {
+          "x": 211.50755310058594,
+          "y": 228.65931701660156,
+          "width": 43.29911804199219,
+          "height": 3.6512451171875,
+          "top": 228.65931701660156,
+          "right": 254.80667114257812,
+          "bottom": 232.31056213378906,
+          "left": 211.50755310058594
+        },
+        "buttons": [
+          {
+            "label": "Zoom in",
+            "title": ""
+          },
+          {
+            "label": "Zoom out",
+            "title": ""
+          },
+          {
+            "label": "Reset view",
+            "title": ""
+          },
+          {
+            "label": "Pan up",
+            "title": ""
+          },
+          {
+            "label": "Pan down",
+            "title": ""
+          },
+          {
+            "label": "Pan left",
+            "title": ""
+          },
+          {
+            "label": "Pan right",
+            "title": ""
+          }
+        ],
+        "anchors": 31
+      },
+      "details": true,
+      "detailGraphs": [
+        {
+          "nodes": 31,
+          "edges": 28
+        },
+        {
+          "nodes": 31,
+          "edges": 38
+        }
+      ]
+    }
+  ],
+  "probes": [
+    {
+      "text": "Introduction to Java — topic 15\n\nSimple Chat Bot with Java — project 113\n\nInteractive course graph",
+      "links": [
+        {
+          "href": "https://hyperskill.org/learn/step/38627",
+          "target": "_parent"
+        },
+        {
+          "href": "https://hyperskill.org/projects/113",
+          "target": "_parent"
+        },
+        {
+          "href": "https://planton361.github.io/hyperskill-projects/knowledge-graph/",
+          "target": "_parent"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Zoom in",
+          "title": "",
+          "html": "<button class=\"btn zoom-in\" aria-label=\"Zoom in\"><svg version=\"1.1\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" class=\"octicon octicon-zoom-in\" aria-hidden=\"true\" data-component=\"Octicon\"><path d=\"M3.75 7.5a.75.75 0 0 1 .75-.75h2.25V4.5a.75.75 0 0 1 1.5 0v2.25h2.25a.75.75 0 0 1 0 1.5H8.25v2.25a.75.75 0 0 1-1.5 0V8.25H4.5a.75.75 0 0 1-.75-.75Z\"></path><path d=\"M7.5 0a7.5 7.5 0 0 1 5.807 12.247l2.473 2.473a.749.749 0 1 1-1.06 1.06l-2.473-2.473A7.5 7.5 0 1 1 7.5 0Zm-6 7.5a6 6 0 1 0 12 0 6 6 0 0 0-12 0Z\"></path></svg></button>"
+        },
+        {
+          "label": "Zoom out",
+          "title": "",
+          "html": "<button class=\"btn zoom-out\" aria-label=\"Zoom out\"><svg version=\"1.1\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" class=\"octicon octicon-zoom-out\" aria-hidden=\"true\" data-component=\"Octicon\"><path d=\"M4.5 6.75h6a.75.75 0 0 1 0 1.5h-6a.75.75 0 0 1 0-1.5Z\"></path><path d=\"M0 7.5a7.5 7.5 0 1 1 13.307 4.747l2.473 2.473a.749.749 0 1 1-1.06 1.06l-2.473-2.473A7.5 7.5 0 0 1 0 7.5Zm7.5-6a6 6 0 1 0 0 12 6 6 0 0 0 0-12Z\"></path></svg></button>"
+        },
+        {
+          "label": "Reset view",
+          "title": "",
+          "html": "<button class=\"btn reset\" aria-label=\"Reset view\"><svg version=\"1.1\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" class=\"octicon octicon-sync\" aria-hidden=\"true\" data-component=\"Octicon\"><path d=\"M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0"
+        },
+        {
+          "label": "Pan up",
+          "title": "",
+          "html": "<button class=\"btn up\" aria-label=\"Pan up\"><svg version=\"1.1\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" class=\"octicon octicon-chevron-up\" aria-hidden=\"true\" data-component=\"Octicon\"><path d=\"M3.22 10.53a.749.749 0 0 1 0-1.06l4.25-4.25a.749.749 0 0 1 1.06 0l4.25 4.25a.749.749 0 1 1-1.06 1.06L8 6.811 4.28 10.53a.749.749 0 0 1-1.06 0Z\"></path></svg></button>"
+        },
+        {
+          "label": "Pan down",
+          "title": "",
+          "html": "<button class=\"btn down\" aria-label=\"Pan down\"><svg version=\"1.1\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" class=\"octicon octicon-chevron-down\" aria-hidden=\"true\" data-component=\"Octicon\"><path d=\"M12.78 5.22a.749.749 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.06 0L3.22 6.28a.749.749 0 1 1 1.06-1.06L8 8.939l3.72-3.719a.749.749 0 0 1 1.06 0Z\"></path></svg></button>"
+        },
+        {
+          "label": "Pan left",
+          "title": "",
+          "html": "<button class=\"btn left\" aria-label=\"Pan left\"><svg version=\"1.1\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" class=\"octicon octicon-chevron-left\" aria-hidden=\"true\" data-component=\"Octicon\"><path d=\"M9.78 12.78a.75.75 0 0 1-1.06 0L4.47 8.53a.75.75 0 0 1 0-1.06l4.25-4.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L6.06 8l3.72 3.72a.75.75 0 0 1 0 1.06Z\"></path></svg></button>"
+        },
+        {
+          "label": "Pan right",
+          "title": "",
+          "html": "<button class=\"btn right\" aria-label=\"Pan right\"><svg version=\"1.1\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" class=\"octicon octicon-chevron-right\" aria-hidden=\"true\" data-component=\"Octicon\"><path d=\"M6.22 3.22a.75.75 0 0 1 1.06 0l4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L9.94 8 6.22 4.28a.75.75 0 0 1 0-1.06Z\"></path></svg></button>"
+        }
+      ]
+    },
+    {
+      "text": "v11.17.2",
+      "links": [],
+      "buttons": [
+        {
+          "label": "Zoom in",
+          "title": "",
+          "html": "<button class=\"btn zoom-in\" aria-label=\"Zoom in\"><svg version=\"1.1\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" class=\"octicon octicon-zoom-in\" aria-hidden=\"true\" data-component=\"Octicon\"><path d=\"M3.75 7.5a.75.75 0 0 1 .75-.75h2.25V4.5a.75.75 0 0 1 1.5 0v2.25h2.25a.75.75 0 0 1 0 1.5H8.25v2.25a.75.75 0 0 1-1.5 0V8.25H4.5a.75.75 0 0 1-.75-.75Z\"></path><path d=\"M7.5 0a7.5 7.5 0 0 1 5.807 12.247l2.473 2.473a.749.749 0 1 1-1.06 1.06l-2.473-2.473A7.5 7.5 0 1 1 7.5 0Zm-6 7.5a6 6 0 1 0 12 0 6 6 0 0 0-12 0Z\"></path></svg></button>"
+        },
+        {
+          "label": "Zoom out",
+          "title": "",
+          "html": "<button class=\"btn zoom-out\" aria-label=\"Zoom out\"><svg version=\"1.1\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" class=\"octicon octicon-zoom-out\" aria-hidden=\"true\" data-component=\"Octicon\"><path d=\"M4.5 6.75h6a.75.75 0 0 1 0 1.5h-6a.75.75 0 0 1 0-1.5Z\"></path><path d=\"M0 7.5a7.5 7.5 0 1 1 13.307 4.747l2.473 2.473a.749.749 0 1 1-1.06 1.06l-2.473-2.473A7.5 7.5 0 0 1 0 7.5Zm7.5-6a6 6 0 1 0 0 12 6 6 0 0 0 0-12Z\"></path></svg></button>"
+        },
+        {
+          "label": "Reset view",
+          "title": "",
+          "html": "<button class=\"btn reset\" aria-label=\"Reset view\"><svg version=\"1.1\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" class=\"octicon octicon-sync\" aria-hidden=\"true\" data-component=\"Octicon\"><path d=\"M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0"
+        },
+        {
+          "label": "Pan up",
+          "title": "",
+          "html": "<button class=\"btn up\" aria-label=\"Pan up\"><svg version=\"1.1\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" class=\"octicon octicon-chevron-up\" aria-hidden=\"true\" data-component=\"Octicon\"><path d=\"M3.22 10.53a.749.749 0 0 1 0-1.06l4.25-4.25a.749.749 0 0 1 1.06 0l4.25 4.25a.749.749 0 1 1-1.06 1.06L8 6.811 4.28 10.53a.749.749 0 0 1-1.06 0Z\"></path></svg></button>"
+        },
+        {
+          "label": "Pan down",
+          "title": "",
+          "html": "<button class=\"btn down\" aria-label=\"Pan down\"><svg version=\"1.1\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" class=\"octicon octicon-chevron-down\" aria-hidden=\"true\" data-component=\"Octicon\"><path d=\"M12.78 5.22a.749.749 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.06 0L3.22 6.28a.749.749 0 1 1 1.06-1.06L8 8.939l3.72-3.719a.749.749 0 0 1 1.06 0Z\"></path></svg></button>"
+        },
+        {
+          "label": "Pan left",
+          "title": "",
+          "html": "<button class=\"btn left\" aria-label=\"Pan left\"><svg version=\"1.1\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" class=\"octicon octicon-chevron-left\" aria-hidden=\"true\" data-component=\"Octicon\"><path d=\"M9.78 12.78a.75.75 0 0 1-1.06 0L4.47 8.53a.75.75 0 0 1 0-1.06l4.25-4.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L6.06 8l3.72 3.72a.75.75 0 0 1 0 1.06Z\"></path></svg></button>"
+        },
+        {
+          "label": "Pan right",
+          "title": "",
+          "html": "<button class=\"btn right\" aria-label=\"Pan right\"><svg version=\"1.1\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" class=\"octicon octicon-chevron-right\" aria-hidden=\"true\" data-component=\"Octicon\"><path d=\"M6.22 3.22a.75.75 0 0 1 1.06 0l4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L9.94 8 6.22 4.28a.75.75 0 0 1 0-1.06Z\"></path></svg></button>"
+        }
+      ]
+    }
+  ]
+}
