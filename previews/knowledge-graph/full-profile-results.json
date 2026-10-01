@@ -1,0 +1,210 @@
+{
+  "testedCommit": "4b12400",
+  "method": "Real GitHub README blob; signed-out Chromium; system themes; narrow viewport, not physical mobile",
+  "results": [
+    {
+      "theme": "dark",
+      "width": 1440,
+      "layout": {
+        "pageWidth": 1440,
+        "scrollWidth": 1440,
+        "article": {
+          "x": 374.5,
+          "y": 386,
+          "width": 1012,
+          "height": 2927.65625
+        },
+        "heading": {
+          "x": 374.5,
+          "y": 1233.421875,
+          "width": 1012,
+          "height": 38.1875
+        },
+        "picture": {
+          "x": 374.5,
+          "y": 1367.609375,
+          "width": 1012,
+          "height": 1254.453125
+        },
+        "toolbox": {
+          "x": 374.5,
+          "y": 2892.0625,
+          "width": 1012,
+          "height": 105.59375
+        },
+        "album": {
+          "x": 374.5,
+          "y": 777.828125,
+          "width": 1012,
+          "height": 105.59375
+        },
+        "image": "knowledge-dark.svg",
+        "details": [
+          "Fraud Prioritization — Ranking transactions when only a limited number can be investigated.",
+          "Life OS — A personal planning system for deciding what to do next.",
+          "FH Agent — A perception, memory and planning architecture for autonomous RPG navigation.",
+          "FireRed Randomizer — A compatibility workspace for a modified FireRed-based game and modern randomizer tools.",
+          "Learned topics",
+          "About this graph"
+        ],
+        "sectionText": "\n\nThe ideas I've learned — and how they connect.\n\nIntroduction to Java · 31 learned · 12 verified\n\nNode = learned · Ring = verified · Arrow = prerequisite\n\nSimple Chat Bot with Java · Completed\n26 of the topics shown were required across its project stages.\n\nExplore the interactive graph →\n\nLearned topics\nAbout this graph\n\n\n\n"
+      },
+      "topics": 31,
+      "detailsWork": true,
+      "verifiedCount": 12
+    },
+    {
+      "theme": "dark",
+      "width": 390,
+      "layout": {
+        "pageWidth": 390,
+        "scrollWidth": 390,
+        "article": {
+          "x": 33,
+          "y": 451,
+          "width": 324,
+          "height": 3188.796875
+        },
+        "heading": {
+          "x": 33,
+          "y": 1182.546875,
+          "width": 324,
+          "height": 38.1875
+        },
+        "picture": {
+          "x": 33,
+          "y": 1364.734375,
+          "width": 324,
+          "height": 1605.265625
+        },
+        "toolbox": {
+          "x": 33,
+          "y": 3264,
+          "width": 324,
+          "height": 33.796875
+        },
+        "album": {
+          "x": 33,
+          "y": 630.75,
+          "width": 324,
+          "height": 33.796875
+        },
+        "image": "knowledge-dark-mobile.svg",
+        "details": [
+          "Fraud Prioritization — Ranking transactions when only a limited number can be investigated.",
+          "Life OS — A personal planning system for deciding what to do next.",
+          "FH Agent — A perception, memory and planning architecture for autonomous RPG navigation.",
+          "FireRed Randomizer — A compatibility workspace for a modified FireRed-based game and modern randomizer tools.",
+          "Learned topics",
+          "About this graph"
+        ],
+        "sectionText": "\n\nThe ideas I've learned — and how they connect.\n\nIntroduction to Java · 31 learned · 12 verified\n\nNode = learned · Ring = verified · Arrow = prerequisite\n\nSimple Chat Bot with Java · Completed\n26 of the topics shown were required across its project stages.\n\nExplore the interactive graph →\n\nLearned topics\nAbout this graph\n\n\n\n"
+      },
+      "topics": 31,
+      "detailsWork": true,
+      "verifiedCount": 12
+    },
+    {
+      "theme": "light",
+      "width": 1440,
+      "layout": {
+        "pageWidth": 1440,
+        "scrollWidth": 1440,
+        "article": {
+          "x": 374.5,
+          "y": 386,
+          "width": 1012,
+          "height": 2927.65625
+        },
+        "heading": {
+          "x": 374.5,
+          "y": 1233.421875,
+          "width": 1012,
+          "height": 38.1875
+        },
+        "picture": {
+          "x": 374.5,
+          "y": 1367.609375,
+          "width": 1012,
+          "height": 1254.453125
+        },
+        "toolbox": {
+          "x": 374.5,
+          "y": 2892.0625,
+          "width": 1012,
+          "height": 105.59375
+        },
+        "album": {
+          "x": 374.5,
+          "y": 777.828125,
+          "width": 1012,
+          "height": 105.59375
+        },
+        "image": "knowledge-light.svg",
+        "details": [
+          "Fraud Prioritization — Ranking transactions when only a limited number can be investigated.",
+          "Life OS — A personal planning system for deciding what to do next.",
+          "FH Agent — A perception, memory and planning architecture for autonomous RPG navigation.",
+          "FireRed Randomizer — A compatibility workspace for a modified FireRed-based game and modern randomizer tools.",
+          "Learned topics",
+          "About this graph"
+        ],
+        "sectionText": "\n\nThe ideas I've learned — and how they connect.\n\nIntroduction to Java · 31 learned · 12 verified\n\nNode = learned · Ring = verified · Arrow = prerequisite\n\nSimple Chat Bot with Java · Completed\n26 of the topics shown were required across its project stages.\n\nExplore the interactive graph →\n\nLearned topics\nAbout this graph\n\n\n\n"
+      },
+      "topics": 31,
+      "detailsWork": true,
+      "verifiedCount": 12
+    },
+    {
+      "theme": "light",
+      "width": 390,
+      "layout": {
+        "pageWidth": 390,
+        "scrollWidth": 390,
+        "article": {
+          "x": 33,
+          "y": 451,
+          "width": 324,
+          "height": 3188.796875
+        },
+        "heading": {
+          "x": 33,
+          "y": 1182.546875,
+          "width": 324,
+          "height": 38.1875
+        },
+        "picture": {
+          "x": 33,
+          "y": 1364.734375,
+          "width": 324,
+          "height": 1605.265625
+        },
+        "toolbox": {
+          "x": 33,
+          "y": 3264,
+          "width": 324,
+          "height": 33.796875
+        },
+        "album": {
+          "x": 33,
+          "y": 630.75,
+          "width": 324,
+          "height": 33.796875
+        },
+        "image": "knowledge-light-mobile.svg",
+        "details": [
+          "Fraud Prioritization — Ranking transactions when only a limited number can be investigated.",
+          "Life OS — A personal planning system for deciding what to do next.",
+          "FH Agent — A perception, memory and planning architecture for autonomous RPG navigation.",
+          "FireRed Randomizer — A compatibility workspace for a modified FireRed-based game and modern randomizer tools.",
+          "Learned topics",
+          "About this graph"
+        ],
+        "sectionText": "\n\nThe ideas I've learned — and how they connect.\n\nIntroduction to Java · 31 learned · 12 verified\n\nNode = learned · Ring = verified · Arrow = prerequisite\n\nSimple Chat Bot with Java · Completed\n26 of the topics shown were required across its project stages.\n\nExplore the interactive graph →\n\nLearned topics\nAbout this graph\n\n\n\n"
+      },
+      "topics": 31,
+      "detailsWork": true,
+      "verifiedCount": 12
+    }
+  ]
+}
