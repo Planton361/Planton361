@@ -191,7 +191,13 @@ remain outside version control.
 
 <a id="learning"></a>
 
-### Learning
+<p align="center">
+  <img
+    src="./assets/sections/learning.png"
+    alt="My Learning"
+    width="100%"
+  >
+</p>
 
 I'm using [Hyperskill](https://hyperskill.org/) as a project-based way to deepen my programming knowledge.
 
