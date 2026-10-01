@@ -193,7 +193,7 @@ remain outside version control.
 
 <p align="center">
   <img
-    src="./assets/sections/learnings.png"
+    src="./assets/sections/learningss.png"
     alt="My Learning"
     width="100%"
   >
