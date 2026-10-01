@@ -84,9 +84,40 @@ flowchart TB
   class t9,t14,t15,t25,t27,t30,t31,t32,t36,t87,t88,t89,t112,t113,t146,t147,t148,t152,t161,t193,t259,t260,t307,t308,t309,t348,t571,t1248,t1476,t1761,t3538 learned;
   class t15,t25,t31,t32,t36,t87,t88,t148,t152,t259,t571,t1761 verified;
   linkStyle default stroke:#8d8197,stroke-width:1px;
+  click t9 href "https://hyperskill.org/learn/step/3523" "Open Hyperskill topic"
+  click t14 href "https://hyperskill.org/learn/step/3518" "Open Hyperskill topic"
+  click t15 href "https://hyperskill.org/learn/step/38627" "Open Hyperskill topic"
+  click t25 href "https://hyperskill.org/learn/step/3503" "Open Hyperskill topic"
+  click t27 href "https://hyperskill.org/learn/step/3565" "Open Hyperskill topic"
+  click t30 href "https://hyperskill.org/learn/step/3520" "Open Hyperskill topic"
+  click t31 href "https://hyperskill.org/learn/step/3514" "Open Hyperskill topic"
+  click t32 href "https://hyperskill.org/learn/step/3510" "Open Hyperskill topic"
+  click t36 href "https://hyperskill.org/learn/step/3517" "Open Hyperskill topic"
+  click t87 href "https://hyperskill.org/learn/step/3516" "Open Hyperskill topic"
+  click t88 href "https://hyperskill.org/learn/step/3512" "Open Hyperskill topic"
+  click t89 href "https://hyperskill.org/learn/step/3505" "Open Hyperskill topic"
+  click t112 href "https://hyperskill.org/learn/step/3513" "Open Hyperskill topic"
+  click t113 href "https://hyperskill.org/learn/step/9055" "Open Hyperskill topic"
+  click t146 href "https://hyperskill.org/learn/step/3519" "Open Hyperskill topic"
+  click t147 href "https://hyperskill.org/learn/step/3522" "Open Hyperskill topic"
+  click t148 href "https://hyperskill.org/learn/step/3521" "Open Hyperskill topic"
+  click t152 href "https://hyperskill.org/learn/step/3506" "Open Hyperskill topic"
+  click t161 href "https://hyperskill.org/learn/step/3532" "Open Hyperskill topic"
+  click t193 href "https://hyperskill.org/learn/step/3749" "Open Hyperskill topic"
+  click t259 href "https://hyperskill.org/learn/step/10996" "Open Hyperskill topic"
+  click t260 href "https://hyperskill.org/learn/step/37202" "Open Hyperskill topic"
+  click t307 href "https://hyperskill.org/learn/step/5008" "Open Hyperskill topic"
+  click t308 href "https://hyperskill.org/learn/step/10545" "Open Hyperskill topic"
+  click t309 href "https://hyperskill.org/learn/step/5035" "Open Hyperskill topic"
+  click t348 href "https://hyperskill.org/learn/step/5504" "Open Hyperskill topic"
+  click t571 href "https://hyperskill.org/learn/step/7427" "Open Hyperskill topic"
+  click t1248 href "https://hyperskill.org/learn/step/12411" "Open Hyperskill topic"
+  click t1476 href "https://hyperskill.org/learn/step/14368" "Open Hyperskill topic"
+  click t1761 href "https://hyperskill.org/learn/step/16479" "Open Hyperskill topic"
+  click t3538 href "https://hyperskill.org/learn/step/37206" "Open Hyperskill topic"
 ```
 
-All shown topics are explicitly learned. The thicker border and “verified” label add verification; their absence
+Topic nodes link to Hyperskill (in the same tab on GitHub). All shown topics are explicitly learned. The thicker border and “verified” label add verification; their absence
 does not mean missing knowledge. The main graph shows 28 of 38 proven links. Arrows show selected prerequisites, not the
 order in which I studied. Display groups combine named Hyperskill categories.
 
