@@ -189,6 +189,32 @@ remain outside version control.
 
 <br>
 
+<a id="my-learning"></a>
+
+### My Learning
+
+What I'm learning — and how the pieces connect.
+
+**Introduction to Java**<br>
+31 / 89 course topics learned · 12 verified
+
+**Knowledge areas**<br>
+[Java](https://planton361.github.io/hyperskill-projects/knowledge-map/?domain=java) — 26 learned · [Software development](https://planton361.github.io/hyperskill-projects/knowledge-map/?domain=software) — 5 learned
+
+**Project evidence**<br>
+[Simple Chat Bot with Java](https://hyperskill.org/projects/113) — Completed · 26 required topics across its project stages
+
+**[Explore my interactive Knowledge Map →](https://planton361.github.io/hyperskill-projects/knowledge-map/)**
+
+<details>
+<summary>How this is measured</summary>
+
+Learned reflects my explicit Hyperskill learning status. Verified is additional evidence. Project requirements are tracked separately, not as proof of topic-level application. The complete topics and relationships are available in the interactive Knowledge Map.
+
+</details>
+
+<br>
+
 <a id="toolbox"></a>
 
 <p align="center">
