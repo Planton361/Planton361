@@ -1,0 +1,785 @@
+{
+  "all_prerequisites": [
+    {
+      "evidence_ids": [
+        "topic-571"
+      ],
+      "id": "prerequisite:topic:9:topic:571",
+      "source": "topic:9",
+      "target": "topic:571",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-87"
+      ],
+      "id": "prerequisite:topic:14:topic:87",
+      "source": "topic:14",
+      "target": "topic:87",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-112"
+      ],
+      "id": "prerequisite:topic:14:topic:112",
+      "source": "topic:14",
+      "target": "topic:112",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-113"
+      ],
+      "id": "prerequisite:topic:14:topic:113",
+      "source": "topic:14",
+      "target": "topic:113",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-161"
+      ],
+      "id": "prerequisite:topic:14:topic:161",
+      "source": "topic:14",
+      "target": "topic:161",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-309"
+      ],
+      "id": "prerequisite:topic:14:topic:309",
+      "source": "topic:14",
+      "target": "topic:309",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-147"
+      ],
+      "id": "prerequisite:topic:15:topic:147",
+      "source": "topic:15",
+      "target": "topic:147",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-152"
+      ],
+      "id": "prerequisite:topic:25:topic:152",
+      "source": "topic:25",
+      "target": "topic:152",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-36"
+      ],
+      "id": "prerequisite:topic:27:topic:36",
+      "source": "topic:27",
+      "target": "topic:36",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-88"
+      ],
+      "id": "prerequisite:topic:27:topic:88",
+      "source": "topic:27",
+      "target": "topic:88",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-307"
+      ],
+      "id": "prerequisite:topic:27:topic:307",
+      "source": "topic:27",
+      "target": "topic:307",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-113"
+      ],
+      "id": "prerequisite:topic:30:topic:113",
+      "source": "topic:30",
+      "target": "topic:113",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-9"
+      ],
+      "id": "prerequisite:topic:31:topic:9",
+      "source": "topic:31",
+      "target": "topic:9",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-87"
+      ],
+      "id": "prerequisite:topic:36:topic:87",
+      "source": "topic:36",
+      "target": "topic:87",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-88"
+      ],
+      "id": "prerequisite:topic:87:topic:88",
+      "source": "topic:87",
+      "target": "topic:88",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-25"
+      ],
+      "id": "prerequisite:topic:88:topic:25",
+      "source": "topic:88",
+      "target": "topic:25",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-1761"
+      ],
+      "id": "prerequisite:topic:89:topic:1761",
+      "source": "topic:89",
+      "target": "topic:1761",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-27"
+      ],
+      "id": "prerequisite:topic:112:topic:27",
+      "source": "topic:112",
+      "target": "topic:27",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-27"
+      ],
+      "id": "prerequisite:topic:113:topic:27",
+      "source": "topic:113",
+      "target": "topic:27",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-27"
+      ],
+      "id": "prerequisite:topic:146:topic:27",
+      "source": "topic:146",
+      "target": "topic:27",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-148"
+      ],
+      "id": "prerequisite:topic:147:topic:148",
+      "source": "topic:147",
+      "target": "topic:148",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-193"
+      ],
+      "id": "prerequisite:topic:148:topic:193",
+      "source": "topic:148",
+      "target": "topic:193",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-89"
+      ],
+      "id": "prerequisite:topic:152:topic:89",
+      "source": "topic:152",
+      "target": "topic:89",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-32"
+      ],
+      "id": "prerequisite:topic:161:topic:32",
+      "source": "topic:161",
+      "target": "topic:32",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-14"
+      ],
+      "id": "prerequisite:topic:193:topic:14",
+      "source": "topic:193",
+      "target": "topic:14",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-30"
+      ],
+      "id": "prerequisite:topic:193:topic:30",
+      "source": "topic:193",
+      "target": "topic:30",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-146"
+      ],
+      "id": "prerequisite:topic:193:topic:146",
+      "source": "topic:193",
+      "target": "topic:146",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-1248"
+      ],
+      "id": "prerequisite:topic:193:topic:1248",
+      "source": "topic:193",
+      "target": "topic:1248",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-260"
+      ],
+      "id": "prerequisite:topic:259:topic:260",
+      "source": "topic:259",
+      "target": "topic:260",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-1761"
+      ],
+      "id": "prerequisite:topic:260:topic:1761",
+      "source": "topic:260",
+      "target": "topic:1761",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-3538"
+      ],
+      "id": "prerequisite:topic:260:topic:3538",
+      "source": "topic:260",
+      "target": "topic:3538",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-31"
+      ],
+      "id": "prerequisite:topic:307:topic:31",
+      "source": "topic:307",
+      "target": "topic:31",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-89"
+      ],
+      "id": "prerequisite:topic:307:topic:89",
+      "source": "topic:307",
+      "target": "topic:89",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-571"
+      ],
+      "id": "prerequisite:topic:309:topic:571",
+      "source": "topic:309",
+      "target": "topic:571",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-1476"
+      ],
+      "id": "prerequisite:topic:348:topic:1476",
+      "source": "topic:348",
+      "target": "topic:1476",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-112"
+      ],
+      "id": "prerequisite:topic:1248:topic:112",
+      "source": "topic:1248",
+      "target": "topic:112",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-3538"
+      ],
+      "id": "prerequisite:topic:1476:topic:3538",
+      "source": "topic:1476",
+      "target": "topic:3538",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-1761"
+      ],
+      "id": "prerequisite:topic:3538:topic:1761",
+      "source": "topic:3538",
+      "target": "topic:1761",
+      "type": "prerequisite"
+    }
+  ],
+  "applied_topic_ids": null,
+  "groups": [
+    {
+      "id": "display:74",
+      "source_category_ids": [
+        74
+      ],
+      "title": "Introduction to Java",
+      "topic_ids": [
+        15,
+        147,
+        148,
+        193
+      ]
+    },
+    {
+      "id": "display:196",
+      "source_category_ids": [
+        196,
+        153
+      ],
+      "title": "Code style / Simple programs",
+      "topic_ids": [
+        30,
+        1248,
+        113,
+        112
+      ]
+    },
+    {
+      "id": "display:35",
+      "source_category_ids": [
+        35
+      ],
+      "title": "Data types and variables",
+      "topic_ids": [
+        14,
+        161,
+        309,
+        32,
+        571,
+        308
+      ]
+    },
+    {
+      "id": "display:306",
+      "source_category_ids": [
+        306,
+        188
+      ],
+      "title": "Operations on primitive types / Strings",
+      "topic_ids": [
+        146,
+        27,
+        36,
+        307,
+        87,
+        31,
+        88,
+        9
+      ]
+    },
+    {
+      "id": "display:3",
+      "source_category_ids": [
+        3
+      ],
+      "title": "Control flow statements",
+      "topic_ids": [
+        25,
+        152,
+        89
+      ]
+    },
+    {
+      "id": "display:258",
+      "source_category_ids": [
+        258,
+        516,
+        1423
+      ],
+      "title": "Dev tools / Software quality / Debugging",
+      "topic_ids": [
+        259,
+        348,
+        260,
+        1476,
+        3538,
+        1761
+      ]
+    }
+  ],
+  "learned_ids": [
+    9,
+    14,
+    15,
+    25,
+    27,
+    30,
+    31,
+    32,
+    36,
+    87,
+    88,
+    89,
+    112,
+    113,
+    146,
+    147,
+    148,
+    152,
+    161,
+    193,
+    259,
+    260,
+    307,
+    308,
+    309,
+    348,
+    571,
+    1248,
+    1476,
+    1761,
+    3538
+  ],
+  "overview_prerequisites": [
+    {
+      "evidence_ids": [
+        "topic-161"
+      ],
+      "id": "prerequisite:topic:14:topic:161",
+      "source": "topic:14",
+      "target": "topic:161",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-309"
+      ],
+      "id": "prerequisite:topic:14:topic:309",
+      "source": "topic:14",
+      "target": "topic:309",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-147"
+      ],
+      "id": "prerequisite:topic:15:topic:147",
+      "source": "topic:15",
+      "target": "topic:147",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-152"
+      ],
+      "id": "prerequisite:topic:25:topic:152",
+      "source": "topic:25",
+      "target": "topic:152",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-36"
+      ],
+      "id": "prerequisite:topic:27:topic:36",
+      "source": "topic:27",
+      "target": "topic:36",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-307"
+      ],
+      "id": "prerequisite:topic:27:topic:307",
+      "source": "topic:27",
+      "target": "topic:307",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-113"
+      ],
+      "id": "prerequisite:topic:30:topic:113",
+      "source": "topic:30",
+      "target": "topic:113",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-9"
+      ],
+      "id": "prerequisite:topic:31:topic:9",
+      "source": "topic:31",
+      "target": "topic:9",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-87"
+      ],
+      "id": "prerequisite:topic:36:topic:87",
+      "source": "topic:36",
+      "target": "topic:87",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-88"
+      ],
+      "id": "prerequisite:topic:87:topic:88",
+      "source": "topic:87",
+      "target": "topic:88",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-25"
+      ],
+      "id": "prerequisite:topic:88:topic:25",
+      "source": "topic:88",
+      "target": "topic:25",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-1761"
+      ],
+      "id": "prerequisite:topic:89:topic:1761",
+      "source": "topic:89",
+      "target": "topic:1761",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-27"
+      ],
+      "id": "prerequisite:topic:113:topic:27",
+      "source": "topic:113",
+      "target": "topic:27",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-27"
+      ],
+      "id": "prerequisite:topic:146:topic:27",
+      "source": "topic:146",
+      "target": "topic:27",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-148"
+      ],
+      "id": "prerequisite:topic:147:topic:148",
+      "source": "topic:147",
+      "target": "topic:148",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-193"
+      ],
+      "id": "prerequisite:topic:148:topic:193",
+      "source": "topic:148",
+      "target": "topic:193",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-89"
+      ],
+      "id": "prerequisite:topic:152:topic:89",
+      "source": "topic:152",
+      "target": "topic:89",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-32"
+      ],
+      "id": "prerequisite:topic:161:topic:32",
+      "source": "topic:161",
+      "target": "topic:32",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-14"
+      ],
+      "id": "prerequisite:topic:193:topic:14",
+      "source": "topic:193",
+      "target": "topic:14",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-30"
+      ],
+      "id": "prerequisite:topic:193:topic:30",
+      "source": "topic:193",
+      "target": "topic:30",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-260"
+      ],
+      "id": "prerequisite:topic:259:topic:260",
+      "source": "topic:259",
+      "target": "topic:260",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-3538"
+      ],
+      "id": "prerequisite:topic:260:topic:3538",
+      "source": "topic:260",
+      "target": "topic:3538",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-31"
+      ],
+      "id": "prerequisite:topic:307:topic:31",
+      "source": "topic:307",
+      "target": "topic:31",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-571"
+      ],
+      "id": "prerequisite:topic:309:topic:571",
+      "source": "topic:309",
+      "target": "topic:571",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-1476"
+      ],
+      "id": "prerequisite:topic:348:topic:1476",
+      "source": "topic:348",
+      "target": "topic:1476",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-112"
+      ],
+      "id": "prerequisite:topic:1248:topic:112",
+      "source": "topic:1248",
+      "target": "topic:112",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-3538"
+      ],
+      "id": "prerequisite:topic:1476:topic:3538",
+      "source": "topic:1476",
+      "target": "topic:3538",
+      "type": "prerequisite"
+    },
+    {
+      "evidence_ids": [
+        "topic-1761"
+      ],
+      "id": "prerequisite:topic:3538:topic:1761",
+      "source": "topic:3538",
+      "target": "topic:1761",
+      "type": "prerequisite"
+    }
+  ],
+  "profile_readme": {
+    "action": "read-only",
+    "path": "README.md",
+    "repository": "Planton361/Planton361",
+    "sha": "c9cb11dd820b049d25d9eccc5af4e4f03a4a8064"
+  },
+  "project_113_required_ids": [
+    9,
+    14,
+    15,
+    25,
+    27,
+    30,
+    31,
+    36,
+    87,
+    88,
+    89,
+    112,
+    113,
+    146,
+    147,
+    148,
+    152,
+    193,
+    259,
+    260,
+    307,
+    348,
+    1248,
+    1476,
+    1761,
+    3538
+  ],
+  "source_hashes": {
+    "data/knowledge/SCHEMA.md": "6462926dccf9a736cec81499b094d758cd10ae02a3cff2908a13ad7ede55ec82",
+    "data/knowledge/categories.json": "3c761e7b1815f37700b714b45d40458737df26a953831032a135c68352ded980",
+    "data/knowledge/courses.json": "e4e2f71107a8512f865c6ea4c20a855bf732364781ec662aa35782eaf35c5ed9",
+    "data/knowledge/edges.json": "d4e5a3e3b209425b6d4e71744975d2edb74a27824d84e9abca79c080082e0be5",
+    "data/knowledge/evidence.json": "7abb2ebaf3f9e11ac71c17cf38d8cccda1726aa923afd039dbe34a4fc27d7a0e",
+    "data/knowledge/observations/learned-2026-10-01.json": "df781d2ffd8a403ff00c49373986383452da97e8977a7e7146c4bc6dbd3d438b",
+    "data/knowledge/progress.json": "4444f13bd7450713ff7058b74383a822fe07a889703b132cfacd791b63044ed6",
+    "data/knowledge/projects.json": "d9c0fad9b70fb6c9a3a3b9348d13795bcdc0918780161370675399265e245184",
+    "data/knowledge/stages.json": "3a5aa2e3ebdbaa4e0f9b4cd3836882ea264512690b02b1d0cf456c148667e1c6",
+    "data/knowledge/topics.json": "21d303692e46700805cc37849e4c6397902202aa2625e38592de6db063f68e93"
+  },
+  "verified_ids": [
+    15,
+    25,
+    31,
+    32,
+    36,
+    87,
+    88,
+    148,
+    152,
+    259,
+    571,
+    1761
+  ]
+}
