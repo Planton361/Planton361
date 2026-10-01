@@ -1,0 +1,232 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="2180" viewBox="0 0 440 2180" role="img" aria-labelledby="title desc">
+<title id="title">My learning map — Introduction to Java</title>
+<desc id="desc">All 31 explicitly learned topics, grouped by real Hyperskill categories. Twelve also have verified status. Arrows are selected prerequisites, not chronology or application evidence. Numeric literals is unconnected in the learned prerequisite graph.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10" fill="#AAA0B1"/></marker></defs>
+<rect width="440" height="2180" rx="12" fill="#F6F3F7"/>
+<g transform="translate(0,-140)" font-family="ui-sans-serif, system-ui, sans-serif">
+<text x="26" y="165" fill="#302A36" font-size="17" font-weight="500">Introduction to Java</text>
+<ellipse cx="220.0" cy="269" rx="198.0" ry="103" fill="#ECE6F0" opacity=".48"/>
+<text x="26" y="470" fill="#302A36" font-size="17" font-weight="500">Code style / Simple programs</text>
+<ellipse cx="220.0" cy="574" rx="198.0" ry="103" fill="#ECE6F0" opacity=".48"/>
+<text x="26" y="775" fill="#302A36" font-size="17" font-weight="500">Data types and variables</text>
+<ellipse cx="220.0" cy="927" rx="198.0" ry="151" fill="#ECE6F0" opacity=".48"/>
+<text x="26" y="1180" fill="#302A36" font-size="17" font-weight="500">Operations on primitive types /</text>
+<text x="26" y="1201" fill="#302A36" font-size="17" font-weight="500">Strings</text>
+<ellipse cx="220.0" cy="1401" rx="198.0" ry="199" fill="#ECE6F0" opacity=".48"/>
+<text x="26" y="1685" fill="#302A36" font-size="17" font-weight="500">Control flow statements</text>
+<ellipse cx="220.0" cy="1789" rx="198.0" ry="103" fill="#ECE6F0" opacity=".48"/>
+<text x="26" y="1990" fill="#302A36" font-size="17" font-weight="500">Dev tools / Software quality /</text>
+<text x="26" y="2011" fill="#302A36" font-size="17" font-weight="500">Debugging</text>
+<ellipse cx="220.0" cy="2163" rx="198.0" ry="151" fill="#ECE6F0" opacity=".48"/>
+<path data-edge="14:161" d="M36 831 C54 834.5 243.0114565081191 837.5 225.0114565081191 840.5460331569757" fill="none" stroke="#AAA0B1" stroke-width="1.15" opacity=".58" marker-end="url(#arrow)"><title>Types and variables → Primitive data types and their sizes: prerequisite</title></path>
+<path data-edge="14:309" d="M36 831 C13 864.6 19.345487662124135 893.4 42.345487662124135 918.0238307948453" fill="none" stroke="#AAA0B1" stroke-width="1.15" opacity=".58" marker-end="url(#arrow)"><title>Types and variables → Primitive and reference types: prerequisite</title></path>
+<path data-edge="15:147" d="M36 221 C54 224.5 243.0114565081191 227.5 225.0114565081191 230.5460331569757" fill="none" stroke="#AAA0B1" stroke-width="1.15" opacity=".58" marker-end="url(#arrow)"><title>Introduction to Java → Basic literals: numbers, strings and characters: prerequisite</title></path>
+<path data-edge="25:152" d="M36 1741 C54 1744.5 243.0114565081191 1747.5 225.0114565081191 1750.5460331569757" fill="none" stroke="#AAA0B1" stroke-width="1.15" opacity=".58" marker-end="url(#arrow)"><title>Conditional statement → One-line condition with ternary operator: prerequisite</title></path>
+<path data-edge="27:36" d="M234 1267 C252 1297.1 69.20648941612957 1322.9 51.20648941612957 1349.304931467083" fill="none" stroke="#AAA0B1" stroke-width="1.15" opacity=".58" marker-end="url(#arrow)"><title>Integer types and operations → Floating-point types and operations: prerequisite</title></path>
+<path data-edge="27:307" d="M234 1267 C211 1300.6 217.34548766212413 1329.4 240.34548766212413 1354.0238307948453" fill="none" stroke="#AAA0B1" stroke-width="1.15" opacity=".58" marker-end="url(#arrow)"><title>Integer types and operations → Increment and decrement: prerequisite</title></path>
+<path data-edge="30:113" d="M36 526 C13 559.6 19.345487662124135 588.4 42.345487662124135 613.0238307948453" fill="none" stroke="#AAA0B1" stroke-width="1.15" opacity=".58" marker-end="url(#arrow)"><title>Comments → Reading user input with Scanner: prerequisite</title></path>
+<path data-edge="31:9" d="M234 1459 C211 1492.6 217.34548766212413 1521.4 240.34548766212413 1546.0238307948453" fill="none" stroke="#AAA0B1" stroke-width="1.15" opacity=".58" marker-end="url(#arrow)"><title>Characters → String: prerequisite</title></path>
+<path data-edge="36:87" d="M43 1353 C20 1386.6 13.654512337875865 1415.4 36.654512337875865 1440.0238307948453" fill="none" stroke="#AAA0B1" stroke-width="1.15" opacity=".58" marker-end="url(#arrow)"><title>Floating-point types and operations → Boolean type and operations. True and false: prerequisite</title></path>
+<path data-edge="87:88" d="M36 1449 C13 1482.6 19.345487662124135 1511.4 42.345487662124135 1536.0238307948453" fill="none" stroke="#AAA0B1" stroke-width="1.15" opacity=".58" marker-end="url(#arrow)"><title>Boolean type and operations. True and false → Comparing values. Relational operators: prerequisite</title></path>
+<path data-edge="88:25" d="M43 1545 C20 1613.6 13.32122377461171 1672.4 36.32122377461171 1732.005734310872" fill="none" stroke="#AAA0B1" stroke-width="1.15" opacity=".58" marker-end="url(#arrow)"><title>Comparing values. Relational operators → Conditional statement: prerequisite</title></path>
+<path data-edge="89:1761" d="M43 1837 C61 1988.2 248.36067178040204 2117.8 230.36067178040204 2260.768639838396" fill="none" stroke="#AAA0B1" stroke-width="1.15" opacity=".58" marker-end="url(#arrow)"><title>For loop → Debugging simple constructs: prerequisite</title></path>
+<path data-edge="113:27" d="M43 622 C61 847.75 249.4445716672124 1041.25 231.4445716672124 1258.3704121746177" fill="none" stroke="#AAA0B1" stroke-width="1.15" opacity=".58" marker-end="url(#arrow)"><title>Reading user input with Scanner → Integer types and operations: prerequisite</title></path>
+<path data-edge="146:27" d="M36 1257 C54 1260.5 243.0114565081191 1263.5 225.0114565081191 1266.5460331569757" fill="none" stroke="#AAA0B1" stroke-width="1.15" opacity=".58" marker-end="url(#arrow)"><title>Arithmetic operations → Integer types and operations: prerequisite</title></path>
+<path data-edge="147:148" d="M234 231 C252 261.1 69.20648941612957 286.9 51.20648941612957 313.304931467083" fill="none" stroke="#AAA0B1" stroke-width="1.15" opacity=".58" marker-end="url(#arrow)"><title>Basic literals: numbers, strings and characters → Writing first program: prerequisite</title></path>
+<path data-edge="148:193" d="M43 317 C61 320.5 250.0114565081191 323.5 232.0114565081191 326.54603315697574" fill="none" stroke="#AAA0B1" stroke-width="1.15" opacity=".58" marker-end="url(#arrow)"><title>Writing first program → Printing data: prerequisite</title></path>
+<path data-edge="152:89" d="M234 1751 C252 1781.1 69.20648941612957 1806.9 51.20648941612957 1833.304931467083" fill="none" stroke="#AAA0B1" stroke-width="1.15" opacity=".58" marker-end="url(#arrow)"><title>One-line condition with ternary operator → For loop: prerequisite</title></path>
+<path data-edge="161:32" d="M234 841 C211 874.6 217.34548766212413 903.4 240.34548766212413 928.0238307948453" fill="none" stroke="#AAA0B1" stroke-width="1.15" opacity=".58" marker-end="url(#arrow)"><title>Primitive data types and their sizes → Type casting: prerequisite</title></path>
+<path data-edge="193:14" d="M241 327 C259 503.4 57.39094260685215 654.6 39.39094260685215 822.6632435421782" fill="none" stroke="#AAA0B1" stroke-width="1.15" opacity=".58" marker-end="url(#arrow)"><title>Printing data → Types and variables: prerequisite</title></path>
+<path data-edge="193:30" d="M241 327 C259 396.65 60.457763159210714 456.35 42.457763159210714 519.7312445430101" fill="none" stroke="#AAA0B1" stroke-width="1.15" opacity=".58" marker-end="url(#arrow)"><title>Printing data → Comments: prerequisite</title></path>
+<path data-edge="259:260" d="M36 2067 C13 2100.6 19.345487662124135 2129.4 42.345487662124135 2154.0238307948453" fill="none" stroke="#AAA0B1" stroke-width="1.15" opacity=".58" marker-end="url(#arrow)"><title>IDE → IntelliJ IDEA: prerequisite</title></path>
+<path data-edge="260:3538" d="M43 2163 C20 2196.6 13.654512337875865 2225.4 36.654512337875865 2250.0238307948453" fill="none" stroke="#AAA0B1" stroke-width="1.15" opacity=".58" marker-end="url(#arrow)"><title>IntelliJ IDEA → Run and debug with IntelliJ IDEA: prerequisite</title></path>
+<path data-edge="307:31" d="M241 1363 C218 1396.6 211.65451233787587 1425.4 234.65451233787587 1450.0238307948453" fill="none" stroke="#AAA0B1" stroke-width="1.15" opacity=".58" marker-end="url(#arrow)"><title>Increment and decrement → Characters: prerequisite</title></path>
+<path data-edge="309:571" d="M43 927 C20 960.6 13.654512337875865 989.4 36.654512337875865 1014.0238307948453" fill="none" stroke="#AAA0B1" stroke-width="1.15" opacity=".58" marker-end="url(#arrow)"><title>Primitive and reference types → Constants. Final variables: prerequisite</title></path>
+<path data-edge="348:1476" d="M234 2077 C211 2110.6 217.34548766212413 2139.4 240.34548766212413 2164.0238307948453" fill="none" stroke="#AAA0B1" stroke-width="1.15" opacity=".58" marker-end="url(#arrow)"><title>What are bugs → Debugging overview: prerequisite</title></path>
+<path data-edge="1248:112" d="M234 536 C211 569.6 217.34548766212413 598.4 240.34548766212413 623.0238307948453" fill="none" stroke="#AAA0B1" stroke-width="1.15" opacity=".58" marker-end="url(#arrow)"><title>Coding style conventions → Naming variables: prerequisite</title></path>
+<path data-edge="1476:3538" d="M241 2173 C259 2203.1 62.29928361344449 2228.9 44.29928361344449 2255.518349313384" fill="none" stroke="#AAA0B1" stroke-width="1.15" opacity=".58" marker-end="url(#arrow)"><title>Debugging overview → Run and debug with IntelliJ IDEA: prerequisite</title></path>
+<path data-edge="3538:1761" d="M36 2259 C54 2262.5 243.0114565081191 2265.5 225.0114565081191 2268.5460331569757" fill="none" stroke="#AAA0B1" stroke-width="1.15" opacity=".58" marker-end="url(#arrow)"><title>Run and debug with IntelliJ IDEA → Debugging simple constructs: prerequisite</title></path>
+<g data-topic-id="15" data-learned="true" data-verified="true"><title>Introduction to Java · topic 15 · learned · verified</title>
+<rect x="48" y="202" width="180" height="24" rx="5" fill="#F6F3F7" opacity=".94"/>
+<circle cx="36" cy="221" r="8" fill="none" stroke="#745186" stroke-width="1.5"/>
+<circle cx="36" cy="221" r="4" fill="#3C6A5B"/>
+<text x="51" y="225" fill="#302A36" font-size="15">Introduction to Java</text>
+</g>
+<g data-topic-id="147" data-learned="true" data-verified="false"><title>Basic literals: numbers, strings and characters · topic 147 · learned</title>
+<rect x="246" y="212" width="180" height="62" rx="5" fill="#F6F3F7" opacity=".94"/>
+<circle cx="234" cy="231" r="4" fill="#3C6A5B"/>
+<text x="249" y="235" fill="#302A36" font-size="15">Basic literals:</text>
+<text x="249" y="254" fill="#302A36" font-size="15">numbers, strings and</text>
+<text x="249" y="273" fill="#302A36" font-size="15">characters</text>
+</g>
+<g data-topic-id="148" data-learned="true" data-verified="true"><title>Writing first program · topic 148 · learned · verified</title>
+<rect x="55" y="298" width="180" height="24" rx="5" fill="#F6F3F7" opacity=".94"/>
+<circle cx="43" cy="317" r="8" fill="none" stroke="#745186" stroke-width="1.5"/>
+<circle cx="43" cy="317" r="4" fill="#3C6A5B"/>
+<text x="58" y="321" fill="#302A36" font-size="15">Writing first program</text>
+</g>
+<g data-topic-id="193" data-learned="true" data-verified="false"><title>Printing data · topic 193 · learned</title>
+<rect x="253" y="308" width="180" height="24" rx="5" fill="#F6F3F7" opacity=".94"/>
+<circle cx="241" cy="327" r="4" fill="#3C6A5B"/>
+<text x="256" y="331" fill="#302A36" font-size="15">Printing data</text>
+</g>
+<g data-topic-id="30" data-learned="true" data-verified="false"><title>Comments · topic 30 · learned</title>
+<rect x="48" y="507" width="180" height="24" rx="5" fill="#F6F3F7" opacity=".94"/>
+<circle cx="36" cy="526" r="4" fill="#3C6A5B"/>
+<text x="51" y="530" fill="#302A36" font-size="15">Comments</text>
+</g>
+<g data-topic-id="1248" data-learned="true" data-verified="false"><title>Coding style conventions · topic 1248 · learned</title>
+<rect x="246" y="517" width="180" height="43" rx="5" fill="#F6F3F7" opacity=".94"/>
+<circle cx="234" cy="536" r="4" fill="#3C6A5B"/>
+<text x="249" y="540" fill="#302A36" font-size="15">Coding style</text>
+<text x="249" y="559" fill="#302A36" font-size="15">conventions</text>
+</g>
+<g data-topic-id="113" data-learned="true" data-verified="false"><title>Reading user input with Scanner · topic 113 · learned</title>
+<rect x="55" y="603" width="180" height="43" rx="5" fill="#F6F3F7" opacity=".94"/>
+<circle cx="43" cy="622" r="4" fill="#3C6A5B"/>
+<text x="58" y="626" fill="#302A36" font-size="15">Reading user input</text>
+<text x="58" y="645" fill="#302A36" font-size="15">with Scanner</text>
+</g>
+<g data-topic-id="112" data-learned="true" data-verified="false"><title>Naming variables · topic 112 · learned</title>
+<rect x="253" y="613" width="180" height="24" rx="5" fill="#F6F3F7" opacity=".94"/>
+<circle cx="241" cy="632" r="4" fill="#3C6A5B"/>
+<text x="256" y="636" fill="#302A36" font-size="15">Naming variables</text>
+</g>
+<g data-topic-id="14" data-learned="true" data-verified="false"><title>Types and variables · topic 14 · learned</title>
+<rect x="48" y="812" width="180" height="24" rx="5" fill="#F6F3F7" opacity=".94"/>
+<circle cx="36" cy="831" r="4" fill="#3C6A5B"/>
+<text x="51" y="835" fill="#302A36" font-size="15">Types and variables</text>
+</g>
+<g data-topic-id="161" data-learned="true" data-verified="false"><title>Primitive data types and their sizes · topic 161 · learned</title>
+<rect x="246" y="822" width="180" height="43" rx="5" fill="#F6F3F7" opacity=".94"/>
+<circle cx="234" cy="841" r="4" fill="#3C6A5B"/>
+<text x="249" y="845" fill="#302A36" font-size="15">Primitive data types</text>
+<text x="249" y="864" fill="#302A36" font-size="15">and their sizes</text>
+</g>
+<g data-topic-id="309" data-learned="true" data-verified="false"><title>Primitive and reference types · topic 309 · learned</title>
+<rect x="55" y="908" width="180" height="43" rx="5" fill="#F6F3F7" opacity=".94"/>
+<circle cx="43" cy="927" r="4" fill="#3C6A5B"/>
+<text x="58" y="931" fill="#302A36" font-size="15">Primitive and</text>
+<text x="58" y="950" fill="#302A36" font-size="15">reference types</text>
+</g>
+<g data-topic-id="32" data-learned="true" data-verified="true"><title>Type casting · topic 32 · learned · verified</title>
+<rect x="253" y="918" width="180" height="24" rx="5" fill="#F6F3F7" opacity=".94"/>
+<circle cx="241" cy="937" r="8" fill="none" stroke="#745186" stroke-width="1.5"/>
+<circle cx="241" cy="937" r="4" fill="#3C6A5B"/>
+<text x="256" y="941" fill="#302A36" font-size="15">Type casting</text>
+</g>
+<g data-topic-id="571" data-learned="true" data-verified="true"><title>Constants. Final variables · topic 571 · learned · verified</title>
+<rect x="48" y="1004" width="180" height="43" rx="5" fill="#F6F3F7" opacity=".94"/>
+<circle cx="36" cy="1023" r="8" fill="none" stroke="#745186" stroke-width="1.5"/>
+<circle cx="36" cy="1023" r="4" fill="#3C6A5B"/>
+<text x="51" y="1027" fill="#302A36" font-size="15">Constants. Final</text>
+<text x="51" y="1046" fill="#302A36" font-size="15">variables</text>
+</g>
+<g data-topic-id="308" data-learned="true" data-verified="false"><title>Numeric literals · topic 308 · learned</title>
+<rect x="246" y="1014" width="180" height="24" rx="5" fill="#F6F3F7" opacity=".94"/>
+<circle cx="234" cy="1033" r="4" fill="#3C6A5B"/>
+<text x="249" y="1037" fill="#302A36" font-size="15">Numeric literals</text>
+</g>
+<g data-topic-id="146" data-learned="true" data-verified="false"><title>Arithmetic operations · topic 146 · learned</title>
+<rect x="48" y="1238" width="180" height="24" rx="5" fill="#F6F3F7" opacity=".94"/>
+<circle cx="36" cy="1257" r="4" fill="#3C6A5B"/>
+<text x="51" y="1261" fill="#302A36" font-size="15">Arithmetic operations</text>
+</g>
+<g data-topic-id="27" data-learned="true" data-verified="false"><title>Integer types and operations · topic 27 · learned</title>
+<rect x="246" y="1248" width="180" height="43" rx="5" fill="#F6F3F7" opacity=".94"/>
+<circle cx="234" cy="1267" r="4" fill="#3C6A5B"/>
+<text x="249" y="1271" fill="#302A36" font-size="15">Integer types and</text>
+<text x="249" y="1290" fill="#302A36" font-size="15">operations</text>
+</g>
+<g data-topic-id="36" data-learned="true" data-verified="true"><title>Floating-point types and operations · topic 36 · learned · verified</title>
+<rect x="55" y="1334" width="180" height="43" rx="5" fill="#F6F3F7" opacity=".94"/>
+<circle cx="43" cy="1353" r="8" fill="none" stroke="#745186" stroke-width="1.5"/>
+<circle cx="43" cy="1353" r="4" fill="#3C6A5B"/>
+<text x="58" y="1357" fill="#302A36" font-size="15">Floating-point types</text>
+<text x="58" y="1376" fill="#302A36" font-size="15">and operations</text>
+</g>
+<g data-topic-id="307" data-learned="true" data-verified="false"><title>Increment and decrement · topic 307 · learned</title>
+<rect x="253" y="1344" width="180" height="43" rx="5" fill="#F6F3F7" opacity=".94"/>
+<circle cx="241" cy="1363" r="4" fill="#3C6A5B"/>
+<text x="256" y="1367" fill="#302A36" font-size="15">Increment and</text>
+<text x="256" y="1386" fill="#302A36" font-size="15">decrement</text>
+</g>
+<g data-topic-id="87" data-learned="true" data-verified="true"><title>Boolean type and operations. True and false · topic 87 · learned · verified</title>
+<rect x="48" y="1430" width="180" height="62" rx="5" fill="#F6F3F7" opacity=".94"/>
+<circle cx="36" cy="1449" r="8" fill="none" stroke="#745186" stroke-width="1.5"/>
+<circle cx="36" cy="1449" r="4" fill="#3C6A5B"/>
+<text x="51" y="1453" fill="#302A36" font-size="15">Boolean type and</text>
+<text x="51" y="1472" fill="#302A36" font-size="15">operations. True and</text>
+<text x="51" y="1491" fill="#302A36" font-size="15">false</text>
+</g>
+<g data-topic-id="31" data-learned="true" data-verified="true"><title>Characters · topic 31 · learned · verified</title>
+<rect x="246" y="1440" width="180" height="24" rx="5" fill="#F6F3F7" opacity=".94"/>
+<circle cx="234" cy="1459" r="8" fill="none" stroke="#745186" stroke-width="1.5"/>
+<circle cx="234" cy="1459" r="4" fill="#3C6A5B"/>
+<text x="249" y="1463" fill="#302A36" font-size="15">Characters</text>
+</g>
+<g data-topic-id="88" data-learned="true" data-verified="true"><title>Comparing values. Relational operators · topic 88 · learned · verified</title>
+<rect x="55" y="1526" width="180" height="43" rx="5" fill="#F6F3F7" opacity=".94"/>
+<circle cx="43" cy="1545" r="8" fill="none" stroke="#745186" stroke-width="1.5"/>
+<circle cx="43" cy="1545" r="4" fill="#3C6A5B"/>
+<text x="58" y="1549" fill="#302A36" font-size="15">Comparing values.</text>
+<text x="58" y="1568" fill="#302A36" font-size="15">Relational operators</text>
+</g>
+<g data-topic-id="9" data-learned="true" data-verified="false"><title>String · topic 9 · learned</title>
+<rect x="253" y="1536" width="180" height="24" rx="5" fill="#F6F3F7" opacity=".94"/>
+<circle cx="241" cy="1555" r="4" fill="#3C6A5B"/>
+<text x="256" y="1559" fill="#302A36" font-size="15">String</text>
+</g>
+<g data-topic-id="25" data-learned="true" data-verified="true"><title>Conditional statement · topic 25 · learned · verified</title>
+<rect x="48" y="1722" width="180" height="24" rx="5" fill="#F6F3F7" opacity=".94"/>
+<circle cx="36" cy="1741" r="8" fill="none" stroke="#745186" stroke-width="1.5"/>
+<circle cx="36" cy="1741" r="4" fill="#3C6A5B"/>
+<text x="51" y="1745" fill="#302A36" font-size="15">Conditional statement</text>
+</g>
+<g data-topic-id="152" data-learned="true" data-verified="true"><title>One-line condition with ternary operator · topic 152 · learned · verified</title>
+<rect x="246" y="1732" width="180" height="43" rx="5" fill="#F6F3F7" opacity=".94"/>
+<circle cx="234" cy="1751" r="8" fill="none" stroke="#745186" stroke-width="1.5"/>
+<circle cx="234" cy="1751" r="4" fill="#3C6A5B"/>
+<text x="249" y="1755" fill="#302A36" font-size="15">One-line condition</text>
+<text x="249" y="1774" fill="#302A36" font-size="15">with ternary operator</text>
+</g>
+<g data-topic-id="89" data-learned="true" data-verified="false"><title>For loop · topic 89 · learned</title>
+<rect x="55" y="1818" width="180" height="24" rx="5" fill="#F6F3F7" opacity=".94"/>
+<circle cx="43" cy="1837" r="4" fill="#3C6A5B"/>
+<text x="58" y="1841" fill="#302A36" font-size="15">For loop</text>
+</g>
+<g data-topic-id="259" data-learned="true" data-verified="true"><title>IDE · topic 259 · learned · verified</title>
+<rect x="48" y="2048" width="180" height="24" rx="5" fill="#F6F3F7" opacity=".94"/>
+<circle cx="36" cy="2067" r="8" fill="none" stroke="#745186" stroke-width="1.5"/>
+<circle cx="36" cy="2067" r="4" fill="#3C6A5B"/>
+<text x="51" y="2071" fill="#302A36" font-size="15">IDE</text>
+</g>
+<g data-topic-id="348" data-learned="true" data-verified="false"><title>What are bugs · topic 348 · learned</title>
+<rect x="246" y="2058" width="180" height="24" rx="5" fill="#F6F3F7" opacity=".94"/>
+<circle cx="234" cy="2077" r="4" fill="#3C6A5B"/>
+<text x="249" y="2081" fill="#302A36" font-size="15">What are bugs</text>
+</g>
+<g data-topic-id="260" data-learned="true" data-verified="false"><title>IntelliJ IDEA · topic 260 · learned</title>
+<rect x="55" y="2144" width="180" height="24" rx="5" fill="#F6F3F7" opacity=".94"/>
+<circle cx="43" cy="2163" r="4" fill="#3C6A5B"/>
+<text x="58" y="2167" fill="#302A36" font-size="15">IntelliJ IDEA</text>
+</g>
+<g data-topic-id="1476" data-learned="true" data-verified="false"><title>Debugging overview · topic 1476 · learned</title>
+<rect x="253" y="2154" width="180" height="24" rx="5" fill="#F6F3F7" opacity=".94"/>
+<circle cx="241" cy="2173" r="4" fill="#3C6A5B"/>
+<text x="256" y="2177" fill="#302A36" font-size="15">Debugging overview</text>
+</g>
+<g data-topic-id="3538" data-learned="true" data-verified="false"><title>Run and debug with IntelliJ IDEA · topic 3538 · learned</title>
+<rect x="48" y="2240" width="180" height="43" rx="5" fill="#F6F3F7" opacity=".94"/>
+<circle cx="36" cy="2259" r="4" fill="#3C6A5B"/>
+<text x="51" y="2263" fill="#302A36" font-size="15">Run and debug with</text>
+<text x="51" y="2282" fill="#302A36" font-size="15">IntelliJ IDEA</text>
+</g>
+<g data-topic-id="1761" data-learned="true" data-verified="true"><title>Debugging simple constructs · topic 1761 · learned · verified</title>
+<rect x="246" y="2250" width="180" height="43" rx="5" fill="#F6F3F7" opacity=".94"/>
+<circle cx="234" cy="2269" r="8" fill="none" stroke="#745186" stroke-width="1.5"/>
+<circle cx="234" cy="2269" r="4" fill="#3C6A5B"/>
+<text x="249" y="2273" fill="#302A36" font-size="15">Debugging simple</text>
+<text x="249" y="2292" fill="#302A36" font-size="15">constructs</text>
+</g>
+</g></svg>

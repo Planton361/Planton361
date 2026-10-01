@@ -189,6 +189,99 @@ remain outside version control.
 
 <br>
 
+<a id="my-learning-map"></a>
+
+## My Learning Map
+
+The ideas I've learned — and how they connect.
+
+**Introduction to Java · 31 learned · 12 verified**
+
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/knowledge-graph/knowledge-dark-mobile.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/knowledge-graph/knowledge-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/knowledge-graph/knowledge-dark.svg">
+  <img src="./assets/knowledge-graph/knowledge-light.svg" alt="My 31 learned Java topics in six knowledge islands, with prerequisite arrows and an extra ring on 12 verified topics." width="100%">
+</picture>
+
+<sub>Node = learned · Ring = verified · Arrow = prerequisite</sub>
+
+**[Simple Chat Bot with Java](https://hyperskill.org/projects/113) · Completed**<br>
+26 of the topics shown were required across its project stages.
+
+**[Explore the interactive graph →](https://planton361.github.io/hyperskill-projects/knowledge-graph/)**
+
+<details>
+<summary>Learned topics</summary>
+
+<sub>† Also verified</sub>
+
+**Introduction to Java**
+
+- [Introduction to Java](https://hyperskill.org/learn/step/38627) †
+- [Basic literals: numbers, strings and characters](https://hyperskill.org/learn/step/3522)
+- [Writing first program](https://hyperskill.org/learn/step/3521) †
+- [Printing data](https://hyperskill.org/learn/step/3749)
+
+**Code style / Simple programs**
+
+- [Comments](https://hyperskill.org/learn/step/3520)
+- [Coding style conventions](https://hyperskill.org/learn/step/12411)
+- [Reading user input with Scanner](https://hyperskill.org/learn/step/9055)
+- [Naming variables](https://hyperskill.org/learn/step/3513)
+
+**Data types and variables**
+
+- [Types and variables](https://hyperskill.org/learn/step/3518)
+- [Primitive data types and their sizes](https://hyperskill.org/learn/step/3532)
+- [Primitive and reference types](https://hyperskill.org/learn/step/5035)
+- [Type casting](https://hyperskill.org/learn/step/3510) †
+- [Constants. Final variables](https://hyperskill.org/learn/step/7427) †
+- [Numeric literals](https://hyperskill.org/learn/step/10545)
+
+**Operations on primitive types / Strings**
+
+- [Arithmetic operations](https://hyperskill.org/learn/step/3519)
+- [Integer types and operations](https://hyperskill.org/learn/step/3565)
+- [Floating-point types and operations](https://hyperskill.org/learn/step/3517) †
+- [Increment and decrement](https://hyperskill.org/learn/step/5008)
+- [Boolean type and operations. True and false](https://hyperskill.org/learn/step/3516) †
+- [Characters](https://hyperskill.org/learn/step/3514) †
+- [Comparing values. Relational operators](https://hyperskill.org/learn/step/3512) †
+- [String](https://hyperskill.org/learn/step/3523)
+
+**Control flow statements**
+
+- [Conditional statement](https://hyperskill.org/learn/step/3503) †
+- [One-line condition with ternary operator](https://hyperskill.org/learn/step/3506) †
+- [For loop](https://hyperskill.org/learn/step/3505)
+
+**Dev tools / Software quality / Debugging**
+
+- [IDE](https://hyperskill.org/learn/step/10996) †
+- [What are bugs](https://hyperskill.org/learn/step/5504)
+- [IntelliJ IDEA](https://hyperskill.org/learn/step/37202)
+- [Debugging overview](https://hyperskill.org/learn/step/14368)
+- [Run and debug with IntelliJ IDEA](https://hyperskill.org/learn/step/37206)
+- [Debugging simple constructs](https://hyperskill.org/learn/step/16479) †
+
+</details>
+
+<details>
+<summary>About this graph</summary>
+
+This map comes from my Hyperskill learning progress. Only topics with
+`is_learned === true` are shown; verification is additional evidence.
+Arrows show selected Hyperskill prerequisites, not the order I studied.
+Project evidence is kept separate: required topics do not establish individual
+Applied status.
+
+[Data model and evidence rules](https://github.com/Planton361/hyperskill-projects/blob/main/data/knowledge/SCHEMA.md)
+
+</details>
+
+<br>
+
 <a id="toolbox"></a>
 
 <p align="center">
