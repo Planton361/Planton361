@@ -201,25 +201,26 @@ remain outside version control.
 
 I'm using [Hyperskill](https://hyperskill.org/) as a project-based way to deepen my programming knowledge.
 
-Instead of learning topics in isolation, I work through projects that introduce and reinforce concepts stage by stage. I keep the finished projects in a single repository and track the topics I learn in an interactive Knowledge Map — so I can see not only **what I built**, but also **how the underlying concepts connect**.
+Rather than treating progress as a checklist, I keep a growing **Knowledge Atlas** of the concepts behind the projects I build. It keeps the full learning landscape visible at once — including topics, prerequisite and dependent relationships, learning progress, and the project evidence connected to each part of the map.
+
+As I complete projects or verify new topics, the atlas evolves with the underlying learning data while preserving its existing structure.
 
 **Current course:** [Introduction to Java](https://hyperskill.org/courses/8)  
-**Current progress:** 31 / 89 course topics learned · 12 verified
+**Current progress:** **31 / 89** course topics learned · **12** verified
 
-**[Explore my interactive Knowledge Map →](https://planton361.github.io/hyperskill-projects/knowledge-map/)**  
-[Browse the project repository →](https://github.com/Planton361/hyperskill-projects)
+**[Explore the interactive Knowledge Atlas →](https://planton361.github.io/hyperskill-projects/knowledge-map/)**  
+[Browse the Hyperskill project repository →](https://github.com/Planton361/hyperskill-projects)
 
 <details>
-<summary><strong>Hyperskill Projects</strong> — completed projects and the concepts behind them</summary>
+<summary><strong>Hyperskill Projects</strong> — practical evidence behind the atlas</summary>
 
 <br>
 
-| Project | What I built | Main topics |
+| Project | What I built | Atlas evidence |
 |---|---|---|
-| **[Simple Chat Bot with Java](https://github.com/Planton361/hyperskill-projects/tree/main/java/Simple%20Chat%20Bot%20with%20Java)**<br><sub>COMPLETED · [HYPERSKILL](https://hyperskill.org/projects/113)</sub> | A five-stage console chatbot that introduces itself, reads user input, calculates an age from remainders, counts with the user and finishes with a small quiz. | Console I/O · variables & types · arithmetic · strings & characters · conditionals · loops · code style · IDE & debugging |
+| **[Simple Chat Bot with Java](https://github.com/Planton361/hyperskill-projects/tree/main/java/Simple%20Chat%20Bot%20with%20Java)**<br><sub>COMPLETED · [HYPERSKILL](https://hyperskill.org/projects/113)</sub> | A five-stage console chatbot that introduces itself, reads user input, calculates an age from remainders, counts with the user and finishes with a small quiz. | **26 required topics** connected back to the knowledge hierarchy through project coverage. |
 
 </details>
-
 <br>
 
 <a id="toolbox"></a>
