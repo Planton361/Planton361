@@ -199,34 +199,36 @@ remain outside version control.
   >
 </p>
 
-I learn programming by building projects with [Hyperskill](https://hyperskill.org/), then keep the completed applications in [Hyperskill Projects](https://github.com/Planton361/hyperskill-projects). Each export has its own source, standalone build and run instructions.
+### MyAtlas — Follow my learning progress
+
+**[MyAtlas](https://github.com/Planton361/myatlas)** visualizes my programming progress across **[Hyperskill](https://hyperskill.org/)** and **[LeetCode](https://leetcode.com/)**. For Hyperskill, it connects learned topics, independent verification and evidence from completed projects. For LeetCode, it highlights the problems I've confirmed as solved. Explore the maps to see what I've learned, what I've solved and how my progress changes over time.
+
+**[Explore my Hyperskill Skill Tree →](https://planton361.github.io/myatlas/knowledge-map/?view=skill-tree)**  
+<sub>Follow learned topics, independently verified topics and project-backed learning progress.</sub>
+
+**[Explore my LeetCode CPU Atlas →](https://planton361.github.io/myatlas/leetcode-atlas/)**  
+<sub>Explore the problem map; confirmed solved problems are highlighted in green.</sub>
+
+<sub>[Full Hyperskill Atlas · Course / Project / Stage](https://planton361.github.io/myatlas/knowledge-map/?view=atlas) · [Live LeetCode progress summary](https://planton361.github.io/myatlas/leetcode-progress/) · [MyAtlas source and methodology](https://github.com/Planton361/myatlas)</sub>
+
+<sub>MyAtlas shows published, evidence-backed progress, not direct claims of official course completion or automatic verification by either platform. Completed Hyperskill projects are owner-attested; independently verified topics are counted separately. LeetCode solves are owner-confirmed. The public maps are read-only and require no extension or login.</sub>
+
+<details>
+<summary><strong>Hyperskill projects &amp; learning snapshot</strong> — expand the project table</summary>
+
+<br>
 
 **Current course:** [Introduction to Java](https://hyperskill.org/courses/8)  
-**Learning snapshot · 9 October 2026:** **1 completed project** · **31 / 89** course topics learned · **12** independently verified topics.
+**Snapshot · 9 October 2026:** **1 completed project** · **31 / 89** course topics learned · **12** independently verified topics. For current progress, see MyAtlas above.
 
 | Project | What I built | Code |
 | --- | --- | --- |
 | **Simple Chat Bot with Java**<br><sub>COMPLETED · [HYPERSKILL PROJECT 113](https://hyperskill.org/projects/113)</sub> | A console bot that introduces itself, reads input, estimates an age, counts and finishes with a quiz. | [Java source and standalone build](https://github.com/Planton361/hyperskill-projects/tree/main/java/Simple%20Chat%20Bot%20with%20Java) |
 
-**[Browse my Hyperskill projects →](https://github.com/Planton361/hyperskill-projects)**
-
-<details>
-<summary><strong>MyAtlas</strong> — a separate visualization of my learning and confirmed LeetCode progress</summary>
-
-<br>
-
-[MyAtlas](https://github.com/Planton361/myatlas) connects the Hyperskill reference landscape with my personal Skill Tree and a LeetCode CPU floorplan. Project code stays in the project repository; the visualization and its maintenance tools have their own home.
-
-- [Hyperskill Atlas](https://planton361.github.io/myatlas/knowledge-map/?view=atlas) — concepts and Course / Project / Stage coverage.
-- [My Skill Tree](https://planton361.github.io/myatlas/knowledge-map/?view=skill-tree) — my learned and independently verified topics.
-- [LeetCode CPU Atlas](https://planton361.github.io/myatlas/leetcode-atlas/) — confirmed solves shown as green cards on the accepted floorplan.
-- [Public LeetCode progress summary](https://planton361.github.io/myatlas/leetcode-progress/) — live owner-confirmed counts from the [public progress file in MyAtlas](https://github.com/Planton361/myatlas/blob/main/progress/leetcode/solved.json).
-
-All map views retain the LeetCode navigation link. The LeetCode views work in Chrome and Safari without an extension or authentication. Counts refresh from the public source; solutions and problem descriptions are not published. The CPU catalog is a pinned partial community metadata snapshot, not a claim of today's official complete catalog.
-
-Completed projects provide owner-attested learning evidence. Topic verification and Course or Stage completion remain separate measures.
+**[Browse all Hyperskill projects →](https://github.com/Planton361/hyperskill-projects)**
 
 </details>
+
 <br>
 
 <a id="toolbox"></a>
