@@ -207,8 +207,6 @@ Explore what I've learned, which topics have been independently verified, and wh
 
 **[Open MyAtlas →](https://planton361.github.io/myatlas/knowledge-map/)**
 
-<sub>The maps are publicly accessible without a login or Chrome extension. Hyperskill project completions and LeetCode solves are owner-confirmed; independently verified Hyperskill topics are distinguished from owner attestations.</sub>
-
 <details>
 <summary><strong>Hyperskill projects &amp; learning snapshot</strong> — expand the table</summary>
 
