@@ -201,31 +201,25 @@ remain outside version control.
 
 ### MyAtlas — Follow my learning progress
 
-**[MyAtlas](https://github.com/Planton361/myatlas)** visualizes my programming progress across **[Hyperskill](https://hyperskill.org/)** and **[LeetCode](https://leetcode.com/)**. For Hyperskill, it connects learned topics, independent verification and evidence from completed projects. For LeetCode, it highlights the problems I've confirmed as solved. Explore the maps to see what I've learned, what I've solved and how my progress changes over time.
+**MyAtlas** brings my learning progress from **Hyperskill** and **LeetCode** into one interactive experience. It opens in the **Global Hyperskill Atlas** by default. From there, use the built-in navigation to explore **My Skill Tree** and the **LeetCode CPU Atlas** without needing separate links.
 
-**[Explore my Hyperskill Skill Tree →](https://planton361.github.io/myatlas/knowledge-map/?view=skill-tree)**  
-<sub>Follow learned topics, independently verified topics and project-backed learning progress.</sub>
+Explore what I've learned, which topics have been independently verified, and which LeetCode problems I've confirmed as solved. Return anytime to see how my published progress evolves — including green solved cards in the LeetCode map.
 
-**[Explore my LeetCode CPU Atlas →](https://planton361.github.io/myatlas/leetcode-atlas/)**  
-<sub>Explore the problem map; confirmed solved problems are highlighted in green.</sub>
+**[Open MyAtlas →](https://planton361.github.io/myatlas/knowledge-map/)**
 
-<sub>[Full Hyperskill Atlas · Course / Project / Stage](https://planton361.github.io/myatlas/knowledge-map/?view=atlas) · [Live LeetCode progress summary](https://planton361.github.io/myatlas/leetcode-progress/) · [MyAtlas source and methodology](https://github.com/Planton361/myatlas)</sub>
-
-<sub>MyAtlas shows published, evidence-backed progress, not direct claims of official course completion or automatic verification by either platform. Completed Hyperskill projects are owner-attested; independently verified topics are counted separately. LeetCode solves are owner-confirmed. The public maps are read-only and require no extension or login.</sub>
+<sub>The maps are publicly accessible without a login or Chrome extension. Hyperskill project completions and LeetCode solves are owner-confirmed; independently verified Hyperskill topics are distinguished from owner attestations.</sub>
 
 <details>
-<summary><strong>Hyperskill projects &amp; learning snapshot</strong> — expand the project table</summary>
+<summary><strong>Hyperskill projects &amp; learning snapshot</strong> — expand the table</summary>
 
 <br>
 
-**Current course:** [Introduction to Java](https://hyperskill.org/courses/8)  
-**Snapshot · 9 October 2026:** **1 completed project** · **31 / 89** course topics learned · **12** independently verified topics. For current progress, see MyAtlas above.
+**Current course:** Introduction to Java  
+**Snapshot · 9 October 2026:** **1 completed project** · **31 / 89** course topics learned · **12** independently verified topics. Current progress is shown in MyAtlas.
 
 | Project | What I built | Code |
 | --- | --- | --- |
-| **Simple Chat Bot with Java**<br><sub>COMPLETED · [HYPERSKILL PROJECT 113](https://hyperskill.org/projects/113)</sub> | A console bot that introduces itself, reads input, estimates an age, counts and finishes with a quiz. | [Java source and standalone build](https://github.com/Planton361/hyperskill-projects/tree/main/java/Simple%20Chat%20Bot%20with%20Java) |
-
-**[Browse all Hyperskill projects →](https://github.com/Planton361/hyperskill-projects)**
+| **Simple Chat Bot with Java**<br><sub>COMPLETED · HYPERSKILL PROJECT 113</sub> | A console bot that introduces itself, reads input, estimates an age, counts and finishes with a quiz. | [Java source and standalone build](https://github.com/Planton361/hyperskill-projects/tree/main/java/Simple%20Chat%20Bot%20with%20Java) |
 
 </details>
 
