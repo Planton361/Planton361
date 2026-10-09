@@ -199,26 +199,32 @@ remain outside version control.
   >
 </p>
 
-I'm using [Hyperskill](https://hyperskill.org/) as a project-based way to deepen my programming knowledge.
-
-Rather than treating progress as a checklist, I keep a growing **Knowledge Atlas** of the concepts behind the projects I build. It keeps the full learning landscape visible at once — including topics, prerequisite and dependent relationships, learning progress, and the project evidence connected to each part of the map.
-
-As I complete projects or verify new topics, the atlas evolves with the underlying learning data while preserving its existing structure.
+I learn programming by building projects with [Hyperskill](https://hyperskill.org/), then keep the completed applications in [Hyperskill Projects](https://github.com/Planton361/hyperskill-projects). Each export has its own source, standalone build and run instructions.
 
 **Current course:** [Introduction to Java](https://hyperskill.org/courses/8)  
-**Current progress:** **31 / 89** course topics learned · **12** verified
+**Learning snapshot · 9 October 2026:** **1 completed project** · **31 / 89** course topics learned · **12** independently verified topics.
 
-**[Explore the interactive Knowledge Atlas →](https://planton361.github.io/hyperskill-projects/knowledge-map/)**  
-[Browse the Hyperskill project repository →](https://github.com/Planton361/hyperskill-projects)
+| Project | What I built | Code |
+| --- | --- | --- |
+| **Simple Chat Bot with Java**<br><sub>COMPLETED · [HYPERSKILL PROJECT 113](https://hyperskill.org/projects/113)</sub> | A console bot that introduces itself, reads input, estimates an age, counts and finishes with a quiz. | [Java source and standalone build](https://github.com/Planton361/hyperskill-projects/tree/main/java/Simple%20Chat%20Bot%20with%20Java) |
+
+**[Browse my Hyperskill projects →](https://github.com/Planton361/hyperskill-projects)**
 
 <details>
-<summary><strong>Hyperskill Projects</strong> — practical evidence behind the atlas</summary>
+<summary><strong>MyAtlas</strong> — a separate visualization of my learning and confirmed LeetCode progress</summary>
 
 <br>
 
-| Project | What I built | Atlas evidence |
-|---|---|---|
-| **[Simple Chat Bot with Java](https://github.com/Planton361/hyperskill-projects/tree/main/java/Simple%20Chat%20Bot%20with%20Java)**<br><sub>COMPLETED · [HYPERSKILL](https://hyperskill.org/projects/113)</sub> | A five-stage console chatbot that introduces itself, reads user input, calculates an age from remainders, counts with the user and finishes with a small quiz. | **26 required topics** connected back to the knowledge hierarchy through project coverage. |
+[MyAtlas](https://github.com/Planton361/myatlas) connects the Hyperskill reference landscape with my personal Skill Tree and a LeetCode CPU floorplan. Project code stays in the project repository; the visualization and its maintenance tools have their own home.
+
+- [Hyperskill Atlas](https://planton361.github.io/myatlas/knowledge-map/?view=atlas) — concepts and Course / Project / Stage coverage.
+- [My Skill Tree](https://planton361.github.io/myatlas/knowledge-map/?view=skill-tree) — my learned and independently verified topics.
+- [LeetCode CPU Atlas](https://planton361.github.io/myatlas/leetcode-atlas/) — confirmed solves shown as green cards on the accepted floorplan.
+- [Public LeetCode progress summary](https://planton361.github.io/myatlas/leetcode-progress/) — live owner-confirmed counts from the [progress-only repository](https://github.com/Planton361/myatlas-leetcode-progress).
+
+All map views retain the LeetCode navigation link. The LeetCode views work in Chrome and Safari without an extension or authentication. Counts refresh from the public source; solutions and problem descriptions are not published. The CPU catalog is a pinned partial community metadata snapshot, not a claim of today's official complete catalog.
+
+Completed projects provide owner-attested learning evidence. Topic verification and Course or Stage completion remain separate measures.
 
 </details>
 <br>
