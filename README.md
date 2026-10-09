@@ -220,7 +220,7 @@ I learn programming by building projects with [Hyperskill](https://hyperskill.or
 - [Hyperskill Atlas](https://planton361.github.io/myatlas/knowledge-map/?view=atlas) — concepts and Course / Project / Stage coverage.
 - [My Skill Tree](https://planton361.github.io/myatlas/knowledge-map/?view=skill-tree) — my learned and independently verified topics.
 - [LeetCode CPU Atlas](https://planton361.github.io/myatlas/leetcode-atlas/) — confirmed solves shown as green cards on the accepted floorplan.
-- [Public LeetCode progress summary](https://planton361.github.io/myatlas/leetcode-progress/) — live owner-confirmed counts from the [progress-only repository](https://github.com/Planton361/myatlas-leetcode-progress).
+- [Public LeetCode progress summary](https://planton361.github.io/myatlas/leetcode-progress/) — live owner-confirmed counts from the [public progress file in MyAtlas](https://github.com/Planton361/myatlas/blob/main/progress/leetcode/solved.json).
 
 All map views retain the LeetCode navigation link. The LeetCode views work in Chrome and Safari without an extension or authentication. Counts refresh from the public source; solutions and problem descriptions are not published. The CPU catalog is a pinned partial community metadata snapshot, not a claim of today's official complete catalog.
 
