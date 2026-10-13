@@ -203,8 +203,6 @@ remain outside version control.
 
 **MyAtlas** brings my learning progress from **Hyperskill** and **LeetCode** into one interactive experience. It opens in the **Global Hyperskill Atlas** by default. From there, use the built-in navigation to explore **My Skill Tree** and the **LeetCode CPU Atlas** without needing separate links.
 
-Explore what I've learned, which topics have been independently verified, and which LeetCode problems I've confirmed as solved. Return anytime to see how my published progress evolves — including green solved cards in the LeetCode map.
-
 **[Open MyAtlas →](https://planton361.github.io/myatlas/knowledge-map/)**
 
 <details>
@@ -217,11 +215,8 @@ Explore what I've learned, which topics have been independently verified, and wh
 | **Simple Chat Bot with Java**<br><sub>COMPLETED · HYPERSKILL PROJECT 113</sub> | A console bot that introduces itself, estimates an age, counts, and finishes with a short quiz. | [Archived Java code](https://github.com/Planton361/hyperskill-projects/tree/main/java/Simple%20Chat%20Bot%20with%20Java) |
 | **Zookeeper with Java**<br><sub>COMPLETED · HYPERSKILL PROJECT 229</sub> | An interactive console viewer with selectable animal-habitat camera scenes. | [Archived Java code](https://github.com/Planton361/hyperskill-projects/tree/main/java/Zookeeper%20with%20Java) |
 | **My First Project with Java**<br><sub>COMPLETED · HYPERSKILL PROJECT 380</sub> | A console income calculator for a small shop, including staff and other expenses. | [Archived Java code](https://github.com/Planton361/hyperskill-projects/tree/main/java/My%20First%20Project%20with%20Java) |
-
 </details>
-
 <br>
-
 <a id="toolbox"></a>
 
 <p align="center">
