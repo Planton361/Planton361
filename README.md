@@ -208,16 +208,19 @@ Explore what I've learned, which topics have been independently verified, and wh
 **[Open MyAtlas →](https://planton361.github.io/myatlas/knowledge-map/)**
 
 <details>
-<summary><strong>Hyperskill projects &amp; learning snapshot</strong> — expand the table</summary>
+<summary><strong>Completed Hyperskill projects</strong> — expand the project table</summary>
 
 <br>
 
-**Current course:** Introduction to Java  
-**Snapshot · 9 October 2026:** **1 completed project** · **31 / 89** course topics learned · **12** independently verified topics. Current progress is shown in MyAtlas.
+These are my owner-attested, completed [Hyperskill project archives](https://github.com/Planton361/hyperskill-projects). This table records the projects published as of **14 October 2026**; [MyAtlas](https://planton361.github.io/myatlas/knowledge-map/?view=skill-tree) shows the latest validated project and learning progress. Learning, independent verification, and Course completion are separate measures.
 
 | Project | What I built | Code |
 | --- | --- | --- |
-| **Simple Chat Bot with Java**<br><sub>COMPLETED · HYPERSKILL PROJECT 113</sub> | A console bot that introduces itself, reads input, estimates an age, counts and finishes with a quiz. | [Java source and standalone build](https://github.com/Planton361/hyperskill-projects/tree/main/java/Simple%20Chat%20Bot%20with%20Java) |
+| **Simple Chat Bot with Java**<br><sub>COMPLETED · HYPERSKILL PROJECT 113</sub> | A console bot that introduces itself, estimates an age, counts, and finishes with a short quiz. | [Archived Java code](https://github.com/Planton361/hyperskill-projects/tree/main/java/Simple%20Chat%20Bot%20with%20Java) |
+| **Zookeeper with Java**<br><sub>COMPLETED · HYPERSKILL PROJECT 229</sub> | An interactive console viewer with selectable animal-habitat camera scenes. | [Archived Java code](https://github.com/Planton361/hyperskill-projects/tree/main/java/Zookeeper%20with%20Java) |
+| **My First Project with Java**<br><sub>COMPLETED · HYPERSKILL PROJECT 380</sub> | A console income calculator for a small shop, including staff and other expenses. | [Archived Java code](https://github.com/Planton361/hyperskill-projects/tree/main/java/My%20First%20Project%20with%20Java) |
+
+The table is updated separately after an archive merge. For the latest verified list, use the "Meine Projekte" menu in MyAtlas.
 
 </details>
 
