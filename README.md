@@ -206,13 +206,14 @@ remain outside version control.
 **[Open MyAtlas →](https://planton361.github.io/myatlas/knowledge-map/)**
 
 <details>
-<summary><strong>Completed Hyperskill projects</strong>table</summary>
+<summary><strong>Completed Hyperskill projects</strong> — expand the table</summary>
 
 <br>
 
 | Project | What I built | Code |
 | --- | --- | --- |
 | **Simple Chat Bot with Java**<br><sub>COMPLETED · HYPERSKILL PROJECT 113</sub> | A console bot that introduces itself, estimates an age, counts, and finishes with a short quiz. | [Archived Java code](https://github.com/Planton361/hyperskill-projects/tree/main/java/Simple%20Chat%20Bot%20with%20Java) |
+| **Cinema Room Manager**<br><sub>COMPLETED · HYPERSKILL PROJECT 133</sub> | A console cinema ticket manager with a seating chart, ticket purchases, seat validation, pricing and sales statistics. | [Archived Java code](https://github.com/Planton361/hyperskill-projects/blob/main/projects/133/solution/Cinema%20Room%20Manager/task/src/cinema/Cinema.java) |
 | **Zookeeper with Java**<br><sub>COMPLETED · HYPERSKILL PROJECT 229</sub> | An interactive console viewer with selectable animal-habitat camera scenes. | [Archived Java code](https://github.com/Planton361/hyperskill-projects/tree/main/java/Zookeeper%20with%20Java) |
 | **My First Project with Java**<br><sub>COMPLETED · HYPERSKILL PROJECT 380</sub> | A console income calculator for a small shop, including staff and other expenses. | [Archived Java code](https://github.com/Planton361/hyperskill-projects/tree/main/java/My%20First%20Project%20with%20Java) |
 </details>
